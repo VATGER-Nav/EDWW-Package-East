@@ -1,0 +1,10 @@
+Setup_AutoSignIn=1
+
+//4k-Settings - To activate delete this row and the "/" in following rows
+//Window_QNHTL=3,3250,44
+//Window_CPDLC_Current=3,2800,44
+//Window_CARD=3,3100,1220,738,420
+Window_QNHTL=0
+Window_CPDLC_Current=1,1,750
+Window_CARD=1,1550,750
+Window_MsgIn=1,770,42
