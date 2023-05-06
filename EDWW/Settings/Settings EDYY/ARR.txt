@@ -1,0 +1,14 @@
+ARR
+m_Visible:0
+m_X:1377
+m_Y:894
+m_LineNumber:10
+m_Resizable:0
+m_OrderingColumn:2
+m_HeaderOnly:0
+m_Column:ACID:7:0:9:0:7:1::::3:0.0
+m_Column:DEST:6:1:17:0:0:1::::3:0.0
+m_Column:VIA:5:1:48:18:0:1::::3:0.0
+m_Column:RWY:4:1:47:0:0:1::::3:0.0
+m_Column:RMK:3:1:19:29:29:1::::3:0.0
+END
