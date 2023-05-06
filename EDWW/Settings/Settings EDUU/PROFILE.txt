@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:EDUU_O_CTR:300:6
+ATIS2:Rhein Radar (OSE Ostsee) - CPDLC on [EDUO]
+ATIS3:Check sector coverage at vatglasses.uk/europe/
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDUU_H_CTR:300:6
+ATIS2:Rhein Radar (HVL Havel) - CPDLC on [EDUH]
+ATIS3:Check sector coverage at vatglasses.uk/europe/
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDUU_P_CTR:300:6
+ATIS2:Rhein Radar (SPE Spree) - CPDLC on [EDUP]
+ATIS3:Check sector coverage at vatglasses.uk/europe/
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDUU_A_CTR:300:6
+ATIS2:Rhein Radar (SAL Saale) - CPDLC on [EDUA]
+ATIS3:Check sector coverage at vatglasses.uk/europe/
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDUU_OH_CTR:300:6
+ATIS2:Rhein Radar (Ostsee High Sector) - CPDLC on [EDUE]
+ATIS3:Check sector coverage at vatglasses.uk/europe/
+ATIS4:Submit your feedback at feedback.vatger.de
+END
