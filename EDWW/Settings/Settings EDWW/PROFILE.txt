@@ -1,0 +1,150 @@
+PROFILE
+PROFILE:XX_OBS:100:0
+ATIS2:
+ATIS3:
+ATIS4:
+
+///EDWW///
+PROFILE:EDWW_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWW (CPDLC above FL245/FL285 only!)
+ATIS3:FIR Sector - Check sector coverage at vatglasses.uk
+ATIS4:COVERING ALL BREMEN FIR
+PROFILE:EDWW_A_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWA (CPDLC above FL245 only!)
+ATIS3:Aller Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_B_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWB (CPDLC above FL285 only!)
+ATIS3:Boerde Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_D_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWD (CPDLC above FL245 only!)
+ATIS3:Deister Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_E_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWE (CPDLC above FL245 only!)
+ATIS3:Eider East Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_F_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWF (CPDLC above FL285 only!)
+ATIS3:Flaeming Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_H_CTR:300:6
+ATIS2:Callsign BREMEN RADAR
+ATIS3:Heide Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_K_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWK (CPDLC above FL285 only!)
+ATIS3:Mark Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_M_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWM (CPDLC above FL285 only!)
+ATIS3:Mueritz Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_R_CTR:300:6
+ATIS2:Callsign BREMEN RADAR
+ATIS3:Harz Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_S_CTR:300:6
+ATIS2:Callsign BREMEN RADAR - CPDLC/PDC on EDWS (CPDLC above FL245 only!)
+ATIS3:Ems Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDWW_W_CTR:300:6
+ATIS2:Callsign BREMEN RADAR
+ATIS3:Eider West Sector - Check sector coverage at vatglasses.uk
+ATIS4:Submit your feedback at feedback.vatger.de
+
+///EDDB///
+PROFILE:EDDB_S_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDB
+ATIS3:Berlin Arrival South Sector - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_N_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDB
+ATIS3:Berlin Arrival North Sector - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_D_APP:150:5
+ATIS2:Callsign BERLIN DIRECTOR
+ATIS3:REPORT ONLY CALLSIGN - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_F_APP:150:5
+ATIS2:Callsign BERLIN DIRECTOR
+ATIS3:REPORT ONLY CALLSIGN - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_N_DEP:150:5
+ATIS2:Callsign BREMEN RADAR
+ATIS3:Berlin Departure North Sector - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_S_DEP:150:5
+ATIS2:Callsign BREMEN RADAR
+ATIS3:Berlin Departure South Sector - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_Q_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDB
+ATIS3:Coordinator Position - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+
+///EDDH///
+PROFILE:EDDH_E_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDH
+ATIS3:Hamburg East Sector - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDH_W_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDH
+ATIS3:Hamburg West Sector - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDH_F_APP:150:5
+ATIS2:Callsign HAMBURG DIRECTOR
+ATIS3:REPORT ONLY CALLSIGN - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+
+///EDDV///
+PROFILE:EDDV_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDV
+ATIS3:Hannover Sector - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDV_F_APP:150:5
+ATIS2:Callsign HANNOVER DIRECTOR
+ATIS3:REPORT ONLY CALLSIGN - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+
+///EDDW///
+PROFILE:EDDW_APP:150:5
+ATIS2:Callsign BREMEN RADAR
+ATIS3:Friesland Sector - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDW_F_APP:150:5
+ATIS2:Callsign BREMEN DIRECTOR
+ATIS3:REPORT ONLY CALLSIGN - Briefing vats.im/EDWW
+ATIS4:Submit your feedback at feedback.vatger.de
+
+///MILITARY///
+PROFILE:ETSH_APP:150:5
+ATIS2:Callsign HOLZDORF RADAR
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:ETNH_APP:150:5
+ATIS2:Callsign HOHN RADAR
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:ETNH_P_APP:150:5
+ATIS2:Callsign HOHN PRESICION
+ATIS3:For PAR Approach only! No readback of instructions required!
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:ETNL_APP:150:5
+ATIS2:Callsign LAAGE RADAR
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:ETNL_P_APP:150:5
+ATIS2:Callsign LAAGE PRESICION
+ATIS3:For PAR Approach only! No readback of instructions required!
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:ETNS_APP:150:5
+ATIS2:Callsign SCHLESWIG RADAR
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:COVERING ETNS,ETNH
+PROFILE:ETNS_P_APP:150:5
+ATIS2:Callsign SCHLESWIG PRESICION
+ATIS3:For PAR Approach only! No readback of instructions required!
+ATIS4:Submit your feedback at feedback.vatger.de
+END
