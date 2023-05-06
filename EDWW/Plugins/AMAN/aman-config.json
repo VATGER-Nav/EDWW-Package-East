@@ -1,0 +1,46 @@
+{
+    "openAutomatically": true,
+    "timelines": {
+        "DB433/DB471": {
+            "targetFixes": [ "DB433", "DB471" ],
+            "viaFixes": [ "OGBER", "KETAP", "KLF", "ATGUP", "NUKRO" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "EDDB" ]
+        },
+        "DB533/DB572": {
+            "targetFixes": [ "DB533", "DB572" ],
+            "viaFixes": [ "OGBER", "KETAP", "KLF", "ATGUP", "NUKRO" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "EDDB" ]
+        },
+        "DB542/DB552": {
+            "targetFixes": [ "DB542", "DB552" ],
+            "viaFixes": [ "OGBER", "KETAP", "KLF", "ATGUP", "NUKRO" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "EDDB" ]
+        },
+        "...": {
+            "targetFixes": [ "....", "...." ],
+            "viaFixes": [ "..." ],
+            "tagLayout": "simpleLayout",
+            "defaultTimeSpan": 60,
+            "destinationAirports": [ "....", "...." ]
+        }
+    },
+    "tagLayouts": {
+        "myLayout": [
+            { "source": "assignedRunway", "width": 4 },
+            { "source": "callsign", "width": 8 },
+            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "aircraftType", "width": 5 },
+            { "source": "aircraftWtc", "width": 2 },
+            { "source": "remainingDistance", "width": 4, "rightAligned": true },
+            { "source": "static", "width": 1 },
+            { "source": "directRouting", "width": 5, "rightAligned": true, "defaultValue": "-----" }
+        ],
+        "simpleLayout": [
+            { "source": "assignedRunway", "width": 4 },
+            { "source": "callsign", "width": 8 }
+        ]
+    }
+}
