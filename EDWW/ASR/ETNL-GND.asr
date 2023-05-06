@@ -1,0 +1,53 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\User\Euroscope\EDWW-DFS-Pack-NG-main\EDWW-EDWW_20230224212824-230201-0004.sct
+SECTORTITLE:EDWW-EDWW_20230224212824-230201-0004.sct
+Free Text:ETNL Taxiways and Parking\01:freetext
+Free Text:ETNL Taxiways and Parking\02:freetext
+Free Text:ETNL Taxiways and Parking\04:freetext
+Free Text:ETNL Taxiways and Parking\04A:freetext
+Free Text:ETNL Taxiways and Parking\04B:freetext
+Free Text:ETNL Taxiways and Parking\06:freetext
+Free Text:ETNL Taxiways and Parking\08:freetext
+Free Text:ETNL Taxiways and Parking\09:freetext
+Free Text:ETNL Taxiways and Parking\10:freetext
+Free Text:ETNL Taxiways and Parking\12:freetext
+Free Text:ETNL Taxiways and Parking\16:freetext
+Free Text:ETNL Taxiways and Parking\A:freetext
+Free Text:ETNL Taxiways and Parking\A:freetext
+Free Text:ETNL Taxiways and Parking\A:freetext
+Free Text:ETNL Taxiways and Parking\B:freetext
+Free Text:ETNL Taxiways and Parking\B:freetext
+Free Text:ETNL Taxiways and Parking\C:freetext
+Free Text:ETNL Taxiways and Parking\C:freetext
+Free Text:ETNL Taxiways and Parking\GAT:freetext
+Free Text:ETNL Taxiways and Parking\Helipad:freetext
+Free Text:ETNL Taxiways and Parking\M:freetext
+Free Text:ETNL Taxiways and Parking\M:freetext
+Free Text:ETNL Taxiways and Parking\M:freetext
+Free Text:ETNL Taxiways and Parking\Z:freetext
+Free Text:ETNL Taxiways and Parking\Z:freetext
+Geo:ETNL Groundlayout:
+Regions:ETNL Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:352.50000
+TAGFAMILY:DFS_Ground
+WINDOWAREA:53.910914:12.250668:53.929000:12.323796
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:Ground Radar plugin:AirportElevation:140
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:ETNL
+PLUGIN:Ground Radar plugin:ShowMapData:ETNL
+PLUGIN:TopSky plugin:HideMapData:LOWER,RWY_TWR

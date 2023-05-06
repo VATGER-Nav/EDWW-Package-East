@@ -1,0 +1,55 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ETSH Taxiways\1:freetext
+Free Text:ETSH Taxiways\2:freetext
+Free Text:ETSH Taxiways\3:freetext
+Free Text:ETSH Taxiways\4:freetext
+Free Text:ETSH Taxiways\5:freetext
+Free Text:ETSH Taxiways\6:freetext
+Free Text:ETSH Taxiways\7:freetext
+Free Text:ETSH Taxiways\8:freetext
+Free Text:ETSH Taxiways\9:freetext
+Free Text:ETSH Taxiways\A:freetext
+Free Text:ETSH Taxiways\B:freetext
+Free Text:ETSH Taxiways\C:freetext
+Free Text:ETSH Taxiways\E:freetext
+Free Text:ETSH Taxiways\F:freetext
+Free Text:ETSH Taxiways\Helipad:freetext
+Free Text:ETSH Taxiways\P:freetext
+Free Text:ETSH Taxiways\Q:freetext
+Free Text:ETSH Taxiways\R:freetext
+Free Text:ETSH Taxiways\Ramp 1:freetext
+Free Text:ETSH Taxiways\Ramp 4:freetext
+Free Text:ETSH Taxiways\Ramp 5:freetext
+Free Text:ETSH Taxiways\Ramp 6:freetext
+Free Text:ETSH Taxiways\T:freetext
+Free Text:ETSH Taxiways\T:freetext
+Free Text:ETSH Taxiways\T:freetext
+Free Text:ETSH Taxiways\U:freetext
+Free Text:ETSH Taxiways\Z:freetext
+Geo:ETSH Groundlayout:
+Regions:ETSH Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:356.50000
+TAGFAMILY:DFS_Ground
+WINDOWAREA:51.759491:13.130740:51.782098:13.222146
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:Ground Radar plugin:AirportElevation:94
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:ETSH
+PLUGIN:Ground Radar plugin:ShowMapData:ETSH
+PLUGIN:TopSky plugin:HideMapData:LOWER,RWY_TWR

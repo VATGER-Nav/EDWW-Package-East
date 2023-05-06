@@ -1,0 +1,36 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:EDHI #LeckerLayout Infrastructure\Delivery Center:freetext
+Free Text:EDHI #LeckerLayout Infrastructure\TWR:freetext
+Free Text:EDHI #LeckerLayout Parking\APR 1:freetext
+Free Text:EDHI #LeckerLayout Parking\APR 2:freetext
+Free Text:EDHI #LeckerLayout Parking\APR 3:freetext
+Free Text:EDHI #LeckerLayout Parking\BELUGA HANGAR:freetext
+Free Text:EDHI #LeckerLayout Taxiway\B:freetext
+Free Text:EDHI #LeckerLayout Taxiway\C:freetext
+Free Text:EDHI #LeckerLayout Taxiway\D North:freetext
+Free Text:EDHI #LeckerLayout Taxiway\D South:freetext
+Free Text:EDHI #LeckerLayout Taxiway\E:freetext
+Free Text:EDHI #LeckerLayout Taxiway\G:freetext
+Regions:EDHI #LeckerLayout:polygon
+Regions:EDHI #LeckerLayout NOTAMS:polygon
+Regions:EDHI #LeckerLayout Runway:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:53.522174:9.793613:53.550729:9.879526
+PLUGIN:Ground Radar plugin:GroundMode:EDHI
+PLUGIN:GroundRadar plugin:AirportElevation:21
+PLUGIN:GroundRadar plugin:AirportRadius:3
+PLUGIN:TopSky plugin:NoDraw:1

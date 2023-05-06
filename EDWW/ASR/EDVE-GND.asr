@@ -1,0 +1,45 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:EDVE #LeckerLayout Infrustructure\BALLOON:freetext
+Free Text:EDVE #LeckerLayout Infrustructure\DLR:freetext
+Free Text:EDVE #LeckerLayout Infrustructure\FUEL:freetext
+Free Text:EDVE #LeckerLayout Infrustructure\HANGARS:freetext
+Free Text:EDVE #LeckerLayout Infrustructure\PARKING:freetext
+Free Text:EDVE #LeckerLayout Infrustructure\TERMINAL:freetext
+Free Text:EDVE #LeckerLayout Taxiway\A:freetext
+Free Text:EDVE #LeckerLayout Taxiway\A:freetext
+Free Text:EDVE #LeckerLayout Taxiway\B:freetext
+Free Text:EDVE #LeckerLayout Taxiway\C:freetext
+Free Text:EDVE #LeckerLayout Taxiway\C:freetext
+Free Text:EDVE #LeckerLayout Taxiway\C:freetext
+Free Text:EDVE #LeckerLayout Taxiway\D:freetext
+Free Text:EDVE #LeckerLayout Taxiway\E:freetext
+Free Text:EDVE #LeckerLayout Taxiway\F:freetext
+Free Text:EDVE #LeckerLayout Taxiway\G:freetext
+Free Text:EDVE #LeckerLayout Taxiway\GLIDER STRIP:freetext
+Free Text:EDVE #LeckerLayout Taxiway\H:freetext
+Free Text:EDVE #LeckerLayout Taxiway\M:freetext
+Geo:EDVE Groundlayout #LeckerLayout Infrastructure:
+Geo:EDVE Groundlayout #LeckerLayout Taxiway:
+Regions:EDVE #LeckerLayout:polygon
+Regions:EDVE #LeckerLayout NOTAMS:polygon
+Regions:EDVE #LeckerLayout RWY Ma:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:52.310371:10.534406:52.328638:10.589365
+PLUGIN:Ground Radar plugin:GroundMode:EDVE
+PLUGIN:GroundRadar plugin:AirportElevation:296
+PLUGIN:GroundRadar plugin:AirportRadius:3
+PLUGIN:TopSky plugin:NoDraw:1

@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:357.40000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:52.449498:9.644138:52.474731:9.722715
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:Ground Radar plugin:GroundMode:EDDV
+PLUGIN:GroundRadar plugin:AirportElevation:183
+PLUGIN:GroundRadar plugin:AirportRadius:3
+PLUGIN:TopSky plugin:NoDraw:1

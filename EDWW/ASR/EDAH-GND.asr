@@ -1,0 +1,42 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:EDAH Taxiway and Parking\01:freetext
+Free Text:EDAH Taxiway and Parking\02:freetext
+Free Text:EDAH Taxiway and Parking\A:freetext
+Free Text:EDAH Taxiway and Parking\B:freetext
+Free Text:EDAH Taxiway and Parking\C:freetext
+Free Text:EDAH Taxiway and Parking\C:freetext
+Free Text:EDAH Taxiway and Parking\C:freetext
+Free Text:EDAH Taxiway and Parking\C:freetext
+Free Text:EDAH Taxiway and Parking\D:freetext
+Free Text:EDAH Taxiway and Parking\D:freetext
+Free Text:EDAH Taxiway and Parking\E:freetext
+Free Text:EDAH Taxiway and Parking\F:freetext
+Free Text:EDAH Taxiway and Parking\Parking-area:freetext
+Free Text:EDAH Taxiway and Parking\Parking-area:freetext
+Geo:EDAH Groundlayout:
+Regions:EDAH Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:DFS_Ground
+WINDOWAREA:53.872546:14.125759:53.887088:14.184556
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:Ground Radar plugin:AirportElevation:94
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:EDAH
+PLUGIN:Ground Radar plugin:ShowMapData:EDAH
+PLUGIN:TopSky plugin:HideMapData:LOWER,RWY_TWR

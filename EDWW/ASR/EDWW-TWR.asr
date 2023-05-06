@@ -1,0 +1,35 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:FIR EDMM:
+Geo:EDWW COAST:
+Geo:EDWW Highway:
+NDBs:DBR:symbol
+NDBs:DIP:symbol
+NDBs:MW:symbol
+NDBs:SL:symbol
+Regions:EDDC Dresden City:polygon
+Regions:EDDE Erfurt City:polygon
+Regions:EDDH #LeckerLayout City:polygon
+Regions:EDDP Leipzig City:polygon
+VORs:BBI:symbol
+VORs:FWE:symbol
+VORs:KLF:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:200
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:DFS_TWR
+WINDOWAREA:52.117590:12.513889:52.617591:14.535539
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1

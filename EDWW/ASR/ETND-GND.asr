@@ -1,0 +1,33 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:ETND Infrastructure\Fire & Rescue:freetext
+Free Text:ETND Infrastructure\Flight-Club:freetext
+Free Text:ETND Infrastructure\Gate:freetext
+Free Text:ETND Infrastructure\Helipad:freetext
+Free Text:ETND Infrastructure\Helipad:freetext
+Free Text:ETND Infrastructure\Helipad:freetext
+Free Text:ETND Infrastructure\Info-TWR:freetext
+Free Text:ETND Infrastructure\Tankstelle:freetext
+Free Text:ETND Infrastructure\TWR:freetext
+Geo:ETND Groundlayout Infrastructure:
+Geo:ETND Groundlayout Taxilines:
+Regions:ETND Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:52.577712:8.318890:52.592404:8.363094
+PLUGIN:Ground Radar plugin:GroundMode:ETND
+PLUGIN:GroundRadar plugin:AirportElevation:127
+PLUGIN:GroundRadar plugin:AirportRadius:3
+PLUGIN:TopSky plugin:NoDraw:1

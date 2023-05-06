@@ -1,0 +1,78 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:EDDC Taxiway And Parking\02:freetext
+Free Text:EDDC Taxiway And Parking\03:freetext
+Free Text:EDDC Taxiway And Parking\04:freetext
+Free Text:EDDC Taxiway And Parking\07:freetext
+Free Text:EDDC Taxiway And Parking\08:freetext
+Free Text:EDDC Taxiway And Parking\09:freetext
+Free Text:EDDC Taxiway And Parking\10:freetext
+Free Text:EDDC Taxiway And Parking\18:freetext
+Free Text:EDDC Taxiway And Parking\19:freetext
+Free Text:EDDC Taxiway And Parking\20:freetext
+Free Text:EDDC Taxiway And Parking\21:freetext
+Free Text:EDDC Taxiway And Parking\22:freetext
+Free Text:EDDC Taxiway And Parking\23:freetext
+Free Text:EDDC Taxiway And Parking\24:freetext
+Free Text:EDDC Taxiway And Parking\25:freetext
+Free Text:EDDC Taxiway And Parking\26:freetext
+Free Text:EDDC Taxiway And Parking\27:freetext
+Free Text:EDDC Taxiway And Parking\28:freetext
+Free Text:EDDC Taxiway And Parking\29:freetext
+Free Text:EDDC Taxiway And Parking\30:freetext
+Free Text:EDDC Taxiway And Parking\31:freetext
+Free Text:EDDC Taxiway And Parking\32:freetext
+Free Text:EDDC Taxiway And Parking\33:freetext
+Free Text:EDDC Taxiway And Parking\34:freetext
+Free Text:EDDC Taxiway And Parking\35:freetext
+Free Text:EDDC Taxiway And Parking\36:freetext
+Free Text:EDDC Taxiway And Parking\37:freetext
+Free Text:EDDC Taxiway And Parking\38:freetext
+Free Text:EDDC Taxiway And Parking\A:freetext
+Free Text:EDDC Taxiway And Parking\B:freetext
+Free Text:EDDC Taxiway And Parking\C:freetext
+Free Text:EDDC Taxiway And Parking\D:freetext
+Free Text:EDDC Taxiway And Parking\E:freetext
+Free Text:EDDC Taxiway And Parking\F:freetext
+Free Text:EDDC Taxiway And Parking\G:freetext
+Free Text:EDDC Taxiway And Parking\GAT:freetext
+Free Text:EDDC Taxiway And Parking\H:freetext
+Free Text:EDDC Taxiway And Parking\H:freetext
+Free Text:EDDC Taxiway And Parking\H:freetext
+Free Text:EDDC Taxiway And Parking\H:freetext
+Free Text:EDDC Taxiway And Parking\H:freetext
+Free Text:EDDC Taxiway And Parking\Helipad:freetext
+Free Text:EDDC Taxiway And Parking\K:freetext
+Free Text:EDDC Taxiway And Parking\K:freetext
+Free Text:EDDC Taxiway And Parking\L:freetext
+Free Text:EDDC Taxiway And Parking\L:freetext
+Free Text:EDDC Taxiway And Parking\M:freetext
+Free Text:EDDC Taxiway And Parking\N:freetext
+Free Text:EDDC Taxiway And Parking\N:freetext
+Free Text:EDDC Taxiway And Parking\P:freetext
+Geo:EDDC Groundlayout:
+Regions:EDDC Groundlayout (EDWW):polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:5000
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:DFS_Ground
+WINDOWAREA:51.118233:13.713343:51.146491:13.827599
+PLUGIN:ESCenterlines:Display Active:1
+PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:Ground Radar plugin:AirportElevation:754
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:EDDC
+PLUGIN:Ground Radar plugin:ShowMapData:EDDC
+PLUGIN:TopSky plugin:HideMapData:LOWER,RWY_TWR
