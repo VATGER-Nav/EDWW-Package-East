@@ -9,8 +9,7 @@ Airspace_No_DUPE_Codes=0020,0023,0024,0025,0027,0030,0031,0033,0034,0035,0036,00
 Airspace_SIGMET_Areas=EDWW,EDUU,EDYY,EDGG,EDMM,EHAA,EKDK,ESAA,EPWW
 Airspace_NOTAM_Add=EDWW
 
-AIW_Floor=9500
-AIW_FlightRules=2
+AIW=0
 
 APW_VFR=1
 APW_Buffer_Lat_SepLevel=24500
@@ -62,7 +61,7 @@ Color_FPLSEP_Tool_5=166,160,245
 Color_Freq_Indicator=255,128,0
 Color_Heading_Vector=0,200,0
 Color_Info_Coord=255,128,0
-Color_Information=255,150,0
+Color_Information=35,140,35
 Color_Information_FL=0,170,0
 Color_Informed=0,200,200
 Color_Informed_2=0,200,200
@@ -231,26 +230,18 @@ Shortcut_RadarMenu=0x00
 
 Shortcut_Map_Xfr_Combo=1,0x12
 Shortcut_Map_Xfr_Key=1,0x4D ; M
-Shortcut_Map_Xfr_Key=2,0x4F ; O
-Shortcut_Map_Xfr_Key=3,0x49 ; I
-Shortcut_Map_Xfr_Key=4,0x56 ; V
-Shortcut_Map_Xfr_Key=5,0x50 ; P
-Shortcut_Map_Xfr_Key=6,0x4E ; N
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Xfr_Key=8,0x42 ; B
-Shortcut_Map_Xfr_Key=9,0x46 ; F
-Shortcut_Map_Xfr_Key=10,0x4B ; K
-//Shortcut_Map_Target=1,MRVA\MRVA COLD (NOV-MAR)
-Shortcut_Map_Target=1,MRVA\MRVA WARM (MAR-NOV)
-Shortcut_Map_Target=2,LOA LEVEL INFO\OUTBOUND
-Shortcut_Map_Target=3,LOA LEVEL INFO\INTERN
-Shortcut_Map_Target=4,VFR\VFR FIXES
-Shortcut_Map_Target=5,AIRSPACE INFO\AIRSPACE LEVELS
-Shortcut_Map_Target=6,VFR\PJE PARAJUMPING AREAS GND-FL100
-Shortcut_Map_Target=7,LOA LEVEL INFO\TACTICAL DIRECTS
-Shortcut_Map_Target=8,AIRSPACE INFO\AoR LEVELS
-Shortcut_Map_Target=9,AIRSPACE INFO\FIS REGION
-Shortcut_Map_Target=10,VFR\COAST
+Shortcut_Map_Xfr_Key=2,0x56 ; V
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Xfr_Key=4,0x42 ; B
+Shortcut_Map_Xfr_Key=5,0x46 ; F
+Shortcut_Map_Xfr_Key=6,0x4B ; K
+//Shortcut_Map_Target=1,AIRSPACE INFO\MRVA COLD (NOV-MAR)
+Shortcut_Map_Target=1,AIRSPACE INFO\MRVA WARM (MAR-NOV)
+Shortcut_Map_Target=2,VFR\VFR FIXES
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS
+Shortcut_Map_Target=4,AIRSPACE INFO\AoR LEVELS
+Shortcut_Map_Target=5,AIRSPACE INFO\FIS REGION
+Shortcut_Map_Target=6,VFR\COAST
 
 STCA_AlertSound=0
 STCA_Sep_Lat_SepLevel=24500
@@ -309,7 +300,6 @@ WXR_Echo_dBZ_Med=30
 WXR_Echo_dBZ_Lo=25
 
 [_APP]
-AIW=0
 MTCD=0
 Label_Ass_WTC=1
 Label_Co_WTC=1
