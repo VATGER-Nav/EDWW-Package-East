@@ -122,6 +122,8 @@ CPDLC_AHDG=1
 CPDLC_ASP=1
 CPDLC_PlaySound=1
 CPDLC_PDC_PlaySound=1
+CPDLC_FSM_CLD_Header=CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign>
+CPDLC_FSM_RCD_Header=FSM <hour><min> <year2><month2><day> <adep2> <callsign>
 
 Divergence_CLAM_DelayTime=120
 Divergence_CLAM_MinCFL=7000
@@ -232,14 +234,14 @@ Shortcut_Map_Xfr_Combo=1,0x12
 Shortcut_Map_Xfr_Key=1,0x4D ; M
 Shortcut_Map_Xfr_Key=2,0x56 ; V
 Shortcut_Map_Xfr_Key=3,0x44 ; D
-Shortcut_Map_Xfr_Key=4,0x42 ; B
+Shortcut_Map_Xfr_Key=4,0x41 ; A
 Shortcut_Map_Xfr_Key=5,0x46 ; F
 Shortcut_Map_Xfr_Key=6,0x4B ; K
 //Shortcut_Map_Target=1,AIRSPACE INFO\MRVA COLD (NOV-MAR)
 Shortcut_Map_Target=1,AIRSPACE INFO\MRVA WARM (MAR-NOV)
 Shortcut_Map_Target=2,VFR\VFR FIXES
 Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS
-Shortcut_Map_Target=4,AIRSPACE INFO\AoR LEVELS
+Shortcut_Map_Target=4,AIRSPACE INFO\AIRSPACE LEVELS
 Shortcut_Map_Target=5,AIRSPACE INFO\FIS REGION
 Shortcut_Map_Target=6,VFR\COAST
 
@@ -260,8 +262,14 @@ STCA_WarningTime_L=60
 STCA_WarningTime_U_Imm=50
 STCA_WarningTime_L_Imm=50
 
+System_GUI_Scale_Cursors=1.0
+System_GUI_Scale_GlobalMenu=1.1
+System_GUI_Scale_Menus=1.1
+System_GUI_Scale_Screen=1.1
+System_GUI_Scale_Windows=1.1
 System_GUI_Font_1=EuroScope
 System_GUI_Font_2=EuroScope
+System_GUI_Font_Fixed_1=EuroScope
 System_FIC_Position=1
 System_ProxySounds=0
 System_TransferConfirmation=0
@@ -284,6 +292,8 @@ Vector_QDM_MaxNumber=99
 
 Window_ASM_Chars_Name=9
 Window_ASM_Chars_MapText=25
+Window_CPDLC_Current=1,1280,48
+Window_CPDLC_Setting=1,1,250
 Window_SM_LeaveHoldTime=2
 
 WXR_Latitude=52,5
@@ -305,57 +315,22 @@ Label_Ass_WTC=1
 Label_Co_WTC=1
 Label_Red_WTC=1
 
-[EDWW_B_CTR]
+[EDWW_B]
 Window_MsgIn=1,1200,0
 Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
-[EDWW_M_CTR]
+[EDWW_M]
 Window_MsgIn=1,1200,0
 Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
-[EDWW_T_CTR]
+[EDWW_K]
 Window_MsgIn=1,1200,0
 Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
-[EDWW_K_CTR]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDWW_F_CTR]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDDB_S_APP]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDDB_N_APP]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDDB_U_APP]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDDB_F_APP]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDDB_S_DEP]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
-Track_PredictionLine=1
-
-[EDDB_N_DEP]
+[EDWW_F]
 Window_MsgIn=1,1200,0
 Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
@@ -376,3 +351,6 @@ STCA_WarningTime_L=30
 STCA_WarningTime_U_Imm=30
 STCA_WarningTime_L_Imm=30
 STCA_FastDiv_Vel_Lat=50
+Window_MsgIn=1,1200,0
+Window_PredTfc=1,1,45,200,200
+Track_PredictionLine=1
