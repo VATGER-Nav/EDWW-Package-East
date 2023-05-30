@@ -6,7 +6,7 @@ Airspace_ASSR_AutoAssign_Type=0
 Airspace_C_Flag=EDDC,EDDV
 Airspace_ModeS_Code_VFR=7000
 Airspace_No_DUPE_Codes=0020,0023,0024,0025,0027,0030,0031,0033,0034,0035,0036,0037,1000,4450,4451,4452,4453,4454,7000,7737,7740,7741,7742,7743,7744,7745
-Airspace_SIGMET_Areas=EDWW,EDUU,EDYY,EDGG,EDMM,EHAA,EKDK,ESAA,EPWW
+Airspace_SIGMET_Areas=EDWW,EDUU,EDYY
 Airspace_NOTAM_Add=EDWW
 
 AIW=0
@@ -19,6 +19,9 @@ APW_Buffer_Lat_L_VFR=2.5
 APW_Buffer_Vert_U=1799
 APW_Buffer_Vert_L_IFR=799
 APW_Buffer_Vert_L_IFR=799
+
+Areas_NOTAM_Activation=1
+Areas_Altitude_Filtering=1
 
 Color_Active_Map_Type_1=50,105,105 	 //ED-R 
 Color_Active_Map_Type_2=115,90,75	 //Sectorlines + Fixes (brown)
@@ -129,6 +132,11 @@ Divergence_CLAM_DelayTime=120
 Divergence_CLAM_MinCFL=7000
 Divergence_RAM_DCT_DelayTime=90
 
+Equip_UseCodes=0
+
+FPCP_4D_PathBuffer=4000
+FPCP_Inhibit_VFR=1
+
 FlightLeg_Font=EuroScope
 FlightLeg_FontSize=10
 FlightLeg_Label_Time=1
@@ -140,18 +148,21 @@ FlightLeg_LineWidth=1
 
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
 HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
-
+HTTP_SIGMET_Server=http://aviationweather.gov/
+HTTP_SIGMET_Page_Prefix=data/iffdp/
 HTTP_SIGMET_Pages=6443
+HTTP_SIGMET_Page_Suffix=.txt
 
 Label_Alt_Digits=2
 Label_ASP_Digits=3
 Label_CFL_DefaultValue=0
+Label_DAPs=1
+Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,disabled,disability,impaired
 Label_GS_Digits=2
 Label_SI_ShowFreq=1
 Label_SI_FreqTime=3
 Label_WTC_Highlight_ATYP=DC10,MD11,B744,B748,B742,B743,B741,B772,B773,A388,A339,A333,A332,A310,A306
 Label_WTC_Highlight_WTC=H
-
 
 Label_Co_SQ=0
 Label_Co_ATYP=0
@@ -219,7 +230,9 @@ Maps_Font=EuroScope
 
 Menu_Rate_List=05,10,15,20,25,30,35,40,45,50
 
+MTCD_DeAcknowledge=5
 MTCD_Filter_Dep=3
+MTCD_Sep_Lat=6
 
 RDF_Mode=0
 
@@ -262,6 +275,7 @@ STCA_WarningTime_L=60
 STCA_WarningTime_U_Imm=50
 STCA_WarningTime_L_Imm=50
 
+System_ASP_IasMach=30000
 System_GUI_Scale_Cursors=1.0
 System_GUI_Scale_GlobalMenu=1.1
 System_GUI_Scale_Menus=1.1
@@ -292,9 +306,10 @@ Vector_QDM_MaxNumber=99
 
 Window_ASM_Chars_Name=9
 Window_ASM_Chars_MapText=25
-Window_CPDLC_Current=1,1280,48
-Window_CPDLC_Setting=1,1,250
+Window_CPDLC_Current=1,1350,48
+Window_CPDLC_Setting=1,1,248
 Window_SM_LeaveHoldTime=2
+Window_MsgIn=1,980,48
 
 WXR_Latitude=52,5
 WXR_Latitude_Max=56
@@ -309,48 +324,28 @@ WXR_Echo_dBZ_Hi=50
 WXR_Echo_dBZ_Med=30
 WXR_Echo_dBZ_Lo=25
 
+[_CTR]
+Window_CARD=1,1525,788
+Window_PredTfc=1,1,48,200,200
+
 [_APP]
 MTCD=0
 Label_Ass_WTC=1
 Label_Co_WTC=1
 Label_Red_WTC=1
+Window_PredTfc=1,1,48,200,200
 
 [EDWW_B]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
 [EDWW_M]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
 [EDWW_K]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
 [EDWW_F]
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
 
 [EDDB_]
-AIW_Floor=3500
-STCA_Sep_Lat_SepLevel=6500
-STCA_LinPred_Sep_Lat_U=2,9
-STCA_LinPred_Sep_Lat_L=2,9
-STCA_LinPred_Sep_Vert_U=775
-STCA_LinPred_Sep_Vert_L=475
-STCA_CurrProx_Sep_Lat_U=2,9
-STCA_CurrProx_Sep_Lat_L=2,9
-STCA_CurrProx_Sep_Vert_U=775
-STCA_CurrProx_Sep_Vert_L=475
-STCA_WarningTime_U=60
-STCA_WarningTime_L=30
-STCA_WarningTime_U_Imm=30
-STCA_WarningTime_L_Imm=30
-STCA_FastDiv_Vel_Lat=50
-Window_MsgIn=1,1200,0
-Window_PredTfc=1,1,45,200,200
 Track_PredictionLine=1
