@@ -49,3 +49,9 @@ Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Standard ES radar screen
 RecentFiles	Recent1	\EDWW\ASR\EDUU-CTR.asr
 Settings	sector	\EDWW-EDWW_20230525140914-230501-0006.sct
+TeamSpeakVccs	TsVccsMiniControlX	1375
+TeamSpeakVccs	TsVccsMiniControlY	24
+TeamSpeakVccs	Ts3DialogLeft	1066
+TeamSpeakVccs	Ts3DialogTop	495
+TeamSpeakVccs	Ts3DialogRight	1961
+TeamSpeakVccs	Ts3DialogBottom	1095
