@@ -1,56 +1,57 @@
-ASRFastKeys	1	\EDWW\ASR\EDBB\EDBB-CTR-APP.asr
-ASRFastKeys	2	\EDWW\ASR\EDBB\EDDB-GND.asr
-ASRFastKeys	3	\EDWW\ASR\EDBB\EDDP-GND.asr
-ASRFastKeys	4	\EDWW\ASR\EDBB\EDDC-GND.asr
-ASRFastKeys	5	\EDWW\ASR\EDBB\EDDE-GND.asr
-ASRFastKeys	6	\EDWW\ASR\EDBB\EDAH-GND.asr
-ASRFastKeys	7	\EDWW\ASR\EDBB\ETNL-GND.asr
-ASRFastKeys	8	\EDWW\ASR\EDBB\ETSH-GND.asr
-Plugins	Plugin0	\EDWW\Plugins\EDBB\AfvEuroScopeBridge.dll
+ASRFastKeys	1	\EDWW\ASR\EDWW-CTR-APP.asr
+ASRFastKeys	2	\EDWW\ASR\EDDB-GND.asr
+ASRFastKeys	3	\EDWW\ASR\EDDH-GND.asr
+ASRFastKeys	4	\EDWW\ASR\EDDV-GND.asr
+ASRFastKeys	5	\EDWW\ASR\EDDW-GND.asr
+ASRFastKeys	6	\EDWW\ASR\EDAH-GND.asr
+ASRFastKeys	7	\EDWW\ASR\EDXW-GND.asr
+ASRFastKeys	8	\EDWW\ASR\EDVK-GND.asr
+ASRFastKeys	9	\EDWW\ASR\ETNL-GND.asr
+Plugins	Plugin0	\EDWW\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\EDWW\Plugins\EDBB\Ground Radar Plugin\GRplugin.dll
+Plugins	Plugin1	\EDWW\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin2	\EDWW\Plugins\EDBB\TOPSKY EDBB\TopSky.dll
+Plugins	Plugin2	\EDWW\Plugins\TOPSKY EDWW\TopSky.dll
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin3	\EDWW\Plugins\EDBB\VFPC.dll
+Plugins	Plugin3	\EDWW\Plugins\VFPC.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin3Display1	Ground Radar display
-Plugins	Plugin4	\EDWW\Plugins\EDBB\CCAMS.dll
+Plugins	Plugin4	\EDWW\Plugins\CCAMS.dll
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin4Display1	Ground Radar display
-Plugins	Plugin5	\EDWW\Plugins\EDBB\RG Bremen.dll
+Plugins	Plugin5	\EDWW\Plugins\RG Bremen.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
-Plugins	Plugin6	\EDWW\Plugins\EDBB\Squawk EDBB\Squawks.dll
+Plugins	Plugin6	\EDWW\Plugins\Squawk EDWW\Squawks.dll
 Plugins	Plugin6Display0	Ground Radar display
 Plugins	Plugin6Display1	Standard ES radar screen
 Plugins	Plugin2Display2	Ground Radar display
-Plugins	Plugin7	\EDWW\Plugins\EDBB\AMAN\Aman.dll
+Plugins	Plugin7	\EDWW\Plugins\AMAN\Aman.dll
 Plugins	Plugin7Display0	Ground Radar display
 Plugins	Plugin7Display1	Standard ES radar screen
-Plugins	Plugin8	\EDWW\Plugins\EDBB\IASsure\IASsure.dll
+Plugins	Plugin8	\EDWW\Plugins\IASsure\IASsure.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Settings	Settingsfile	\EDWW\Settings\EDBB\Settings EDBB\GENERAL.txt
-Settings	SettingsfileARR	\EDWW\Settings\EDBB\Settings EDBB\ARR.txt
-Settings	SettingsfileCONFLICT	\EDWW\Settings\EDBB\Settings EDBB\CONFLICT.txt
-Settings	SettingsfileDEP	\EDWW\Settings\EDBB\Settings EDBB\DEP.txt
-Settings	SettingsfileFP	\EDWW\Settings\EDBB\Settings EDBB\FP.txt
-Settings	SettingsfilePILOTING	\EDWW\Settings\EDBB\Settings EDBB\PILOTING.txt
-Settings	SettingsfilePLUGINS	\EDWW\Settings\EDBB\Settings EDBB\PLUGINS.txt
-Settings	SettingsfilePROFILE	\EDWW\Settings\EDBB\Settings EDBB\PROFILE.txt
-Settings	SettingsfileSCREEN	\EDWW\Settings\EDBB\Settings EDBB\SCREEN.txt
-Settings	SettingsfileSEL	\EDWW\Settings\EDBB\Settings EDBB\SEL.txt
-Settings	SettingsfileSIL	\EDWW\Settings\EDBB\Settings EDBB\SIL.txt
-Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\EDBB\Settings EDBB\SYMBOLOGY.txt
-Settings	SettingsfileTAGS	\EDWW\Settings\EDBB\Settings EDBB\TAGS.txt
-Settings	SettingsfileVCCS	\EDWW\Settings\EDBB\Settings EDBB\VCCS.txt
-Settings	SettingsfileVOICE	\EDWW\Settings\EDBB\Settings EDBB\VOICE.txt
+Settings	Settingsfile	\EDWW\Settings\Settings EDWW\GENERAL.txt
+Settings	SettingsfileARR	\EDWW\Settings\Settings EDWW\ARR.txt
+Settings	SettingsfileCONFLICT	\EDWW\Settings\Settings EDWW\CONFLICT.txt
+Settings	SettingsfileDEP	\EDWW\Settings\Settings EDWW\DEP.txt
+Settings	SettingsfileFP	\EDWW\Settings\Settings EDWW\FP.txt
+Settings	SettingsfilePILOTING	\EDWW\Settings\Settings EDWW\PILOTING.txt
+Settings	SettingsfilePLUGINS	\EDWW\Settings\Settings EDWW\PLUGINS.txt
+Settings	SettingsfilePROFILE	\EDWW\Settings\Settings EDWW\PROFILE.txt
+Settings	SettingsfileSCREEN	\EDWW\Settings\Settings EDWW\SCREEN.txt
+Settings	SettingsfileSEL	\EDWW\Settings\Settings EDWW\SEL.txt
+Settings	SettingsfileSIL	\EDWW\Settings\Settings EDWW\SIL.txt
+Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\Settings EDWW\SYMBOLOGY.txt
+Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS.txt
+Settings	SettingsfileVCCS	\EDWW\Settings\Settings EDWW\VCCS.txt
+Settings	SettingsfileVOICE	\EDWW\Settings\Settings EDWW\VOICE.txt
 Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EDWW\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EDWW\NavData\icao.txt
@@ -74,7 +75,7 @@ Sounds	Sound4	\EDWW\Sounds\EDWW\private_message.wav
 Sounds	Sound8	\EDWW\Sounds\EDWW\supervisor_message.wav
 Sounds	Sound7	\EDWW\Sounds\EDWW\landline_request.wav
 Sounds	Sound9	\EDWW\Sounds\EDWW\connected.wav
-RecentFiles	Recent1	\EDWW\ASR\EDBB\EDBB-CTR-APP.asr
+RecentFiles	Recent1	\EDWW\ASR\EDWW-CTR-APP.asr
 TeamSpeakVccs	TsVccsMiniControlX	2375
 TeamSpeakVccs	TsVccsMiniControlY	24
 TeamSpeakVccs	Ts3DialogLeft	1066
