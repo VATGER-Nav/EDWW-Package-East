@@ -994,37 +994,7 @@ COORD:N052.22.18.407:E013.31.03.666
 
 
 //---------------------------C O L O R---------------------------
-COLORDEF:blue:0:196:255
-COLORDEF:red:162:0:0
-COLORDEF:darkred:200:0:0
-COLORDEF:yellow:249:224:0
-COLORDEF:green:14:166:0
-COLORDEF:magenta:166:0:61
-COLORDEF:black:0:0:0
-COLORDEF:greyblue:143:197:199
-COLORDEF:white:255:255:255
-COLORDEF:Ground:50:50:60
-COLORDEF:purple:150:0:180
-COLORDEF:darkerred:110:0:0
-COLORDEF:darkwhite:150:150:150
-COLORDEF:taxiwaylabels:135:135:135
-COLORDEF:parkinglabels:80:80:80
-COLORDEF:infralabels:100:100:100
-COLORDEF:aortwr:0:150:255
-COLORDEF:aorgnd:255:255:0
-COLORDEF:aordelegate:0:255:0
-COLORDEF:taxiyellow:65:65:65
-COLORDEF:taxiorange:100:70:40
-COLORDEF:taxiblue:40:40:100
-COLORDEF:parkinggrey:65:65:65
-COLORDEF:regionbase:20:20:20
-COLORDEF:regiontaxiways:50:50:50
-COLORDEF:regionrunways:40:40:40
-COLORDEF:runwaymarkings:150:150:150
-COLORDEF:tora:255:255:255
-COLORDEF:buildings:0:25:55
-COLORDEF:stopbarred:255:0:0
-COLORDEF:stopbarorange:255:200:0
+
 
  ##################################################################
 //                                 EDDH
