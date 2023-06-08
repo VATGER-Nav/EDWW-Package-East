@@ -1,0 +1,51 @@
+Settings	Settingsfile	\EDWW\Settings\EDBB\Settings EDUU\GENERAL.txt
+Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\EDBB\Settings EDUU\SYMBOLOGY.txt
+Settings	SettingsfileVOICE	\EDWW\Settings\EDBB\Settings EDUU\VOICE.txt
+Settings	SettingsfilePROFILE	\EDWW\Settings\EDBB\Settings EDUU\PROFILE.txt
+Settings	SettingsfileTAGS	\EDWW\Settings\EDBB\Settings EDUU\TAGS.txt
+Settings	SettingsfileSIL	\EDWW\Settings\EDBB\Settings EDUU\SIL.txt
+Settings	SettingsfileSEL	\EDWW\Settings\EDBB\Settings EDUU\SEL.txt
+Settings	SettingsfileDEP	\EDWW\Settings\EDBB\Settings EDUU\DEP.txt
+Settings	SettingsfileARR	\EDWW\Settings\EDBB\Settings EDUU\ARR.txt
+Settings	SettingsfileFP	\EDWW\Settings\EDBB\Settings EDUU\FP.txt
+Settings	SettingsfileSCREEN	\EDWW\Settings\EDBB\Settings EDUU\SCREEN.txt
+Settings	SettingsfilePLUGINS	\EDWW\Settings\EDBB\Settings EDUU\PLUGINS.txt
+Settings	SettingsfilePILOTING	\EDWW\Settings\EDBB\Settings EDUU\PILOTING.txt
+Settings	SettingsfileCONFLICT	\EDWW\Settings\EDBB\Settings EDUU\CONFLICT.txt
+Settings	SettingsfileVCCS	\EDWW\Settings\EDBB\Settings EDUU\VCCS.txt
+Settings	AtisFolder	\ATIS\AtisFiles.txt
+Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EDWW\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\EDWW\NavData\icao.txt
+Settings	airports	\EDWW\ICAO\ICAO_Airports.txt
+Settings	airways	\EDWW\NavData\airway.txt
+Settings	alias	\EDWW\Alias EDWW.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Sounds	Sound0	\EDWW\Sounds\EDWW\handoff_request.wav
+Sounds	Sound1	\EDWW\Sounds\EDWW\handoff_accept.wav
+Sounds	Sound10	\EDWW\Sounds\EDWW\disconnected.wav
+Sounds	Sound11	\EDWW\Sounds\EDWW\ongoing_request.wav
+Sounds	Sound12	\EDWW\Sounds\EDWW\ongoing_accepted.wav
+Sounds	Sound13	\EDWW\Sounds\EDWW\ongoing_refused.wav
+Sounds	Sound14	\EDWW\Sounds\EDWW\ongoing_manual.wav
+Sounds	Sound15	\EDWW\Sounds\EDWW\new_atis.wav
+Sounds	Sound16	\EDWW\Sounds\EDWW\handoff_refused.wav
+Sounds	Sound17	\EDWW\Sounds\EDWW\pointout.wav
+Sounds	Sound18	\EDWW\Sounds\EDWW\startup.wav
+Sounds	Sound2	\EDWW\Sounds\EDWW\startup.wav
+Sounds	Sound3	\EDWW\Sounds\EDWW\radio_message.wav
+Sounds	Sound4	\EDWW\Sounds\EDWW\private_message.wav
+Sounds	Sound7	\EDWW\Sounds\EDWW\landline_request.wav
+Sounds	Sound8	\EDWW\Sounds\EDWW\supervisor_message.wav
+Sounds	Sound9	\EDWW\Sounds\EDWW\connected.wav
+Plugins	Plugin0	\EDWW\Plugins\EDBB\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	ModeS Function Relay (no display)
+Plugins	Plugin2	\EDWW\Plugins\EDBB\CCAMS.dll
+Plugins	Plugin1	\EDWW\Plugins\EDBB\TOPSKY EDUU\TopSky.dll
+Plugins	Plugin1Display0	ModeS Function Relay (no display)
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin2Display0	Standard ES radar screen
+RecentFiles	Recent1	\EDWW\ASR\EDBB\EDUU-CTR.asr
+Settings	sector	\EDWW-EDWW_20230525140914-230501-0006.sct
