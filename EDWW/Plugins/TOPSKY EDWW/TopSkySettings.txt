@@ -246,14 +246,12 @@ Shortcut_RadarMenu=0x00
 Shortcut_Map_Xfr_Combo=1,0x12
 Shortcut_Map_Xfr_Key=1,0x4D ; M
 Shortcut_Map_Xfr_Key=2,0x56 ; V
-Shortcut_Map_Xfr_Key=3,0x44 ; D
 Shortcut_Map_Xfr_Key=4,0x41 ; A
 Shortcut_Map_Xfr_Key=5,0x46 ; F
 Shortcut_Map_Xfr_Key=6,0x4B ; K
 //Shortcut_Map_Target=1,AIRSPACE INFO\MRVA COLD (NOV-MAR)
 Shortcut_Map_Target=1,AIRSPACE INFO\MRVA WARM (MAR-NOV)
 Shortcut_Map_Target=2,VFR\VFR FIXES
-Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS
 Shortcut_Map_Target=4,AIRSPACE INFO\AIRSPACE LEVELS
 Shortcut_Map_Target=5,AIRSPACE INFO\FIS REGION
 Shortcut_Map_Target=6,VFR\COAST
@@ -335,17 +333,63 @@ Label_Co_WTC=1
 Label_Red_WTC=1
 Window_PredTfc=1,1,48,200,200
 
+[EDWW_A]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
+
 [EDWW_B]
 Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EAST
+
+[EDWW_D]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
+
+[EDWW_E]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
+
+[EDWW_H]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
 
 [EDWW_M]
 Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EAST
 
 [EDWW_K]
 Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EAST
 
 [EDWW_F]
 Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EAST
+
+[EDWW_S]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
+
+[EDWW_R]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
+
+[EDWW_W]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS WEST
 
 [EDDB_]
 Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EDDB
+
+[EDDH_]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EDDH
+
+[EDDV_]
+Shortcut_Map_Xfr_Key=3,0x44 ; D
+Shortcut_Map_Target=3,AIRSPACE INFO\TACTICAL DIRECTS EDDV
