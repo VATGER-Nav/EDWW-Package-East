@@ -1,0 +1,94 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\User\Euroscope\002_Test EDWW Pack\EDWW-EDWW_20230523175956-230501-0004.sct
+SECTORTITLE:EDWW-EDWW_20230523175956-230501-0004.sct
+Fixes:HOZ15:symbol
+Fixes:HOZ8:symbol
+NDBs:ABU:symbol
+NDBs:FS:symbol
+NDBs:HC:symbol
+NDBs:HO:frequency
+NDBs:HO:name
+NDBs:HO:symbol
+NDBs:SKZ:symbol
+NDBs:WSN:symbol
+NDBs:ZIG:symbol
+Runways:EDAH 10-28:centerline
+Runways:EDAY 05-23:centerline
+Runways:EDAZ 07-25:centerline
+Runways:EDBH 09-27:centerline
+Runways:EDBM 09-27:centerline
+Runways:EDBN 09-27:centerline
+Runways:EDDB 07L-25R:centerline
+Runways:EDDB 07R-25L:centerline
+Runways:EDDH 05-23:centerline
+Runways:EDDH 15-33:centerline
+Runways:EDDV 09L-27R:centerline
+Runways:EDDV 09R-27L:centerline
+Runways:EDDW 09-27:centerline
+Runways:EDHI 05-23:centerline
+Runways:EDHK 08-26:centerline
+Runways:EDHL 07-25:centerline
+Runways:EDVE 08-26:centerline
+Runways:EDVK 09-27:centerline
+Runways:EDWE 07-25:centerline
+Runways:EDWI 02-20:centerline
+Runways:EDXW 14-32:centerline
+Runways:ETHB 08-26:centerline
+Runways:ETHC 08-26:centerline
+Runways:ETHS 09-27:centerline
+Runways:ETMN 08-26:centerline
+Runways:ETND 08-26:centerline
+Runways:ETNH 08-26:centerline
+Runways:ETNL 09-27:centerline
+Runways:ETNS 05-23:centerline
+Runways:ETNS 07-25:centerline
+Runways:ETNT 08-26:centerline
+Runways:ETNW 08-26:centerline
+Runways:ETSH 09-27:centerline
+VORs:BBI:symbol
+VORs:BKD:symbol
+VORs:CDA:symbol
+VORs:DHE:symbol
+VORs:DLE:symbol
+VORs:DND:symbol
+VORs:DRN:symbol
+VORs:EEL:symbol
+VORs:ERF:symbol
+VORs:FLD:symbol
+VORs:FUL:symbol
+VORs:FWE:symbol
+VORs:GOT:symbol
+VORs:HAM:symbol
+VORs:HDO:symbol
+VORs:HLZ:symbol
+VORs:HMM:symbol
+VORs:HOZ:symbol
+VORs:KLF:symbol
+VORs:KOR:symbol
+VORs:LAG:symbol
+VORs:LEG:symbol
+VORs:LWB:symbol
+VORs:MAG:symbol
+VORs:NIE:symbol
+VORs:OKG:symbol
+VORs:OSN:symbol
+VORs:RKN:symbol
+VORs:ROE:symbol
+VORs:TRT:symbol
+VORs:WRB:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:200
+ABOVE:0
+LEADER:1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:-0.00000
+TAGFAMILY:TopDFS
+WINDOWAREA:51.155093:5.247653:55.224697:21.702271
