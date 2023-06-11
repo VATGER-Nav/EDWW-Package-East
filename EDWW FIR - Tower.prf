@@ -33,6 +33,9 @@ Plugins	Plugin7Display1	Standard ES radar screen
 Plugins	Plugin8	\EDWW\Plugins\RG Bremen.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\EDWW\Plugins\IASsure\IASsure.dll
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin9Display1	Standard ES radar screen
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	Settingsfile	\EDWW\Settings\Settings TOWER\GENERAL.txt
