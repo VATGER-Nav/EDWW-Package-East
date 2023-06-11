@@ -1,12 +1,12 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:6579300:1.0:0:0:7
+Airports:symbol:5268590:1.0:0:0:7
 Airports:name:5263440:3.5:0:0:2
 Low airways:line:6579300:3.5:1:0:7
 Low airways:name:6579300:0.5:0:0:8
 High airways:line:3947580:3.5:0:0:7
 High airways:name:2512998:0.5:0:0:8
-Fixes:symbol:4938355:1.0:0:1:7
+Fixes:symbol:5268590:1.0:0:1:7
 Fixes:name:4938355:3.5:0:0:2
 Sids:line:6579300:3.0:0:0:7
 Stars:line:6579300:3.0:0:0:7
@@ -14,17 +14,17 @@ ARTCC high boundary:line:5263440:3.0:2:1:7
 ARTCC boundary:line:6579300:4.0:0:1:7
 ARTCC low boundary:line:5263440:3.0:4:1:7
 Geo:line:3289650:3.0:0:0:7
-VORs:symbol:4938355:3.0:0:1:7
+VORs:symbol:5268590:3.0:0:1:7
 VORs:name:4938355:3.5:0:0:2
 VORs:frequency:4938355:0.5:0:0:2
-NDBs:symbol:4938355:1.0:0:0:7
+NDBs:symbol:5268590:1.0:0:0:7
 NDBs:name:4938355:3.5:0:0:2
 NDBs:frequency:4938355:0.5:0:0:0
-Runways:centerline:7237230:3.5:0:1:7
+Runways:centerline:5268590:3.5:0:1:7
 Runways:extended centerline:6579300:3.5:1:1:7
 Runways:name:8421504:2.0:0:0:7
 Datablock:non concerned:13137970:3.8:0:0:13
-Datablock:notified:13158400:3.8:0:0:12
+Datablock:notified:15785060:3.8:0:0:12
 Datablock:assumed:9895935:3.8:0:1:12
 Datablock:transfer to me initiated:33023:3.8:0:1:12
 Datablock:redundant:13137970:3.8:0:0:13
