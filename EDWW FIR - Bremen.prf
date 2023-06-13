@@ -57,7 +57,7 @@ Settings	airlines	\EDWW\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EDWW\NavData\icao.txt
 Settings	airports	\EDWW\ICAO\ICAO_Airports.txt
 Settings	airways	\EDWW\NavData\airway.txt
-Settings	alias	\EDWW\Alias EDWW.txt
+Settings	alias	\EDWW\Alias\alias.txt
 Sounds	Sound0	\EDWW\Sounds\EDWW\handoff_request.wav
 Sounds	Sound1	\EDWW\Sounds\EDWW\handoff_accept.wav
 Sounds	Sound10	\EDWW\Sounds\EDWW\disconnected.wav
