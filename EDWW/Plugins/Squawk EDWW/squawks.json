@@ -10,88 +10,113 @@
    "Squawks":[
       {
          "code":"7740",
-         "message":"FIS",
-         "color":"#00cc41"
+         "message":"FDH",
+         "color":"#367f0b"
       },
       {
          "code":"7741",
-         "message":"FIS",
-         "color":"#00cc41"
+         "message":"FDB",
+         "color":"#367f0b"
       },
       {
          "code":"7742",
-         "message":"FIS",
-         "color":"#00cc41"
+         "message":"FDL",
+         "color":"#367f0b"
       },
       {
          "code":"7743",
-         "message":"FIS",
-         "color":"#00cc41"
+         "message":"FDV",
+         "color":"#367f0b"
       },
       {
          "code":"7744",
-         "message":"FIS",
-         "color":"#00cc41"
+         "message":"FDC",
+         "color":"#367f0b"
       },
       {
          "code":"7745",
-         "message":"FIS",
-         "color":"#00cc41"
+         "message":"FSW",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4450",
+         "message":"FDF",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4451",
+         "message":"FDR",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4452",
+         "message":"FDS",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4453",
+         "message":"FDM",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4454",
+         "message":"FDO",
+         "color":"#367f0b"
       },
       {
          "code":"7000",
          "message":"V",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0020",
          "message":"RESCU",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0033",
          "message":"VM",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0034",
          "message":"SAR",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0023",
          "message":"BPO",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0025",
          "message":"PJE",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0027",
          "message":"ACRO",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0030",
          "message":"CAL",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0035",
          "message":"AIRCL",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0036",
          "message":"POL",
-         "color":"#00cc41"
+         "color":"#367f0b"
       },
       {
          "code":"0037",
          "message":"BIV",
-         "color":"#00cc41"
+         "color":"#367f0b"
       }	  
    ]
 }
