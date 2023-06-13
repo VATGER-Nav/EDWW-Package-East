@@ -6,7 +6,7 @@ Low airways:line:6579300:3.5:1:0:7
 Low airways:name:6579300:0.5:0:0:8
 High airways:line:3947580:3.5:0:0:7
 High airways:name:2512998:0.5:0:0:8
-Fixes:symbol:5268590:1.0:0:1:7
+Fixes:symbol:4550540:1.0:0:1:7
 Fixes:name:4938355:3.5:0:0:2
 Sids:line:6579300:3.0:0:0:7
 Stars:line:6579300:3.0:0:0:7
@@ -14,20 +14,20 @@ ARTCC high boundary:line:5263440:3.0:2:1:7
 ARTCC boundary:line:6579300:4.0:0:1:7
 ARTCC low boundary:line:5263440:3.0:4:1:7
 Geo:line:3289650:3.0:0:0:7
-VORs:symbol:5268590:3.0:0:1:7
+VORs:symbol:4550540:3.0:0:1:7
 VORs:name:4938355:3.5:0:0:2
 VORs:frequency:4938355:0.5:0:0:2
-NDBs:symbol:5268590:1.0:0:0:7
+NDBs:symbol:4550540:1.0:0:0:7
 NDBs:name:4938355:3.5:0:0:2
 NDBs:frequency:4938355:0.5:0:0:0
-Runways:centerline:5268590:3.5:0:1:7
+Runways:centerline:4550540:3.5:0:1:7
 Runways:extended centerline:6579300:3.5:1:1:7
 Runways:name:8421504:2.0:0:0:7
-Datablock:non concerned:13137970:3.8:0:0:13
-Datablock:notified:15785060:3.8:0:0:12
-Datablock:assumed:9895935:3.8:0:1:12
+Datablock:non concerned:6705988:3.8:0:0:13
+Datablock:notified:13024256:3.8:0:0:12
+Datablock:assumed:6408664:3.8:0:1:12
 Datablock:transfer to me initiated:33023:3.8:0:1:12
-Datablock:redundant:13137970:3.8:0:0:13
+Datablock:redundant:6705988:3.8:0:0:13
 Datablock:information:38655:3.8:0:1:12
 Datablock:even flight level:8578790:3.8:0:1:12
 Datablock:odd flight level:8578790:3.8:0:1:12
@@ -62,8 +62,8 @@ Metar:normal:65280:3.5:0:0:7
 Metar:modified:65280:3.5:0:0:7
 Metar:timeout:255:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
-Other:distance line:32768:4.3:0:0:7
-Other:distance values:65408:4.3:0:2:7
+Other:distance line:57600:4.3:0:0:7
+Other:distance values:65280:4.3:0:2:7
 Other:distance annotation:65280:4.3:0:0:7
 Other:separation leader:4227327:4.3:0:1:7
 Other:separation leader2:9895935:4.3:0:0:7
@@ -97,8 +97,8 @@ Ground Network:taxiway:65535:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:16744448:3.0:0:0:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:983040:0.5:1:1:7
-Sector:inactive sector background:983040:3.5:1:1:7
+Sector:active sector background:983811:0.5:1:1:7
+Sector:inactive sector background:983811:3.5:1:1:7
 SYMBOL:0
 SYMBOLITEM:MOVETO -3 2
 SYMBOLITEM:LINETO -2 3
