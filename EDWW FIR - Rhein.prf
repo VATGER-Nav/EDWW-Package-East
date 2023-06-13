@@ -19,7 +19,7 @@ Settings	airlines	\EDWW\ICAO\ICAO_Airlines.txt
 Settings	airportcoords	\EDWW\NavData\icao.txt
 Settings	airports	\EDWW\ICAO\ICAO_Airports.txt
 Settings	airways	\EDWW\NavData\airway.txt
-Settings	alias	\EDWW\Alias EDWW.txt
+Settings	alias	\EDWW\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Sounds	Sound0	\EDWW\Sounds\EDWW\handoff_request.wav
