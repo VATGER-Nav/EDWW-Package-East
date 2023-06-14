@@ -47,7 +47,7 @@ Color_Background=11,65,54
 Color_CARD_Mark_All=212,128,44
 Color_CARD_Mark_Own=212,128,44
 Color_CARD_Time_Vector=170,231,197
-Color_Concerned=0,200,200
+Color_Concerned=0,188,198
 Color_Coordination=0,200,200
 Color_CPDLC_UM_Clearance=255,150,0
 Color_Flight_Highlight=0,0,0
@@ -137,7 +137,7 @@ FPCP_4D_PathBuffer=4000
 FPCP_Inhibit_VFR=1
 
 FlightLeg_Font=EuroScope
-FlightLeg_FontSize=10
+FlightLeg_FontSize=12
 FlightLeg_Label_Time=1
 FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
@@ -307,10 +307,11 @@ Track_DivergenceSymbol_Size=8
 Track_PredictionLine=0
 Track_PredictionLine_Max=15
 
-Vector_AHDG_FontSize=10
+Vector_AHDG_FontSize=12
 Vector_AHDG_Label_Dir=1
 Vector_AHDG_Label_Dist=1
-Vector_MinSep_FontSize=10
+Vector_AHDG_Label_Time=1
+Vector_MinSep_FontSize=12
 Vector_MinSep_Label_Time=1
 Vector_QDM_MaxNumber=99
 
