@@ -12,8 +12,9 @@ NDBs:MW:symbol
 NDBs:SL:symbol
 Regions:EDDC Dresden City:polygon
 Regions:EDDE Erfurt City:polygon
-Regions:EDDH #LeckerLayout City:polygon
 Regions:EDDP Leipzig City:polygon
+Regions:EDDV #LeckerLayout City:polygon
+Regions:EDDW #LeckerLayout City:polygon
 VORs:BBI:symbol
 VORs:FWE:symbol
 VORs:KLF:symbol
