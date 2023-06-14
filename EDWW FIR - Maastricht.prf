@@ -7,7 +7,8 @@ Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin3	\EDWW\Plugins\TOPSKY EDYY\TopSky.dll
 Plugins	Plugin3Display0	Standard ES radar screen
 Plugins	Plugin2Display1	Ground Radar display
-Plugins	Plugin4	\EDWW\Plugins\CDM\CDM.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4	\EDWW\Plugins\IASsure\IASsure.dll
 RecentFiles	Recent1	\EDWW\ASR\EDYY-CTR.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
