@@ -47,6 +47,8 @@ Plugins	Plugin1	\EDWW\Plugins\TOPSKY EDUU\TopSky.dll
 Plugins	Plugin1Display0	ModeS Function Relay (no display)
 Plugins	Plugin1Display1	Standard ES radar screen
 Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\EDWW\Plugins\IASsure\IASsure.dll
+Plugins	Plugin3Display0	Standard ES radar screen
 RecentFiles	Recent1	\EDWW\ASR\EDUU-CTR.asr
 Settings	sector	\EDWW-EDWW_20230525140914-230501-0006.sct
 TeamSpeakVccs	TsVccsMiniControlX	1375
