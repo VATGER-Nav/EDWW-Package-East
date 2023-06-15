@@ -1,8 +1,18 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-Free Text:EDHL #LeckerLayout Infrastructure\APR:freetext
+SECTORFILE:
+SECTORTITLE:
+Free Text:EDHL #LeckerLayout Infrastructure\1M:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\2M:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\3M:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\4M:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\5M:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\APR 2:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\APR 3:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\APR 4:freetext
 Free Text:EDHL #LeckerLayout Infrastructure\FUEL:freetext
+Free Text:EDHL #LeckerLayout Infrastructure\GA PARKING:freetext
 Free Text:EDHL #LeckerLayout Infrastructure\GLIDER SCHOOL:freetext
 Free Text:EDHL #LeckerLayout Infrastructure\GLIDER STRIP:freetext
 Free Text:EDHL #LeckerLayout Infrastructure\TERMINAL:freetext
@@ -12,10 +22,11 @@ Free Text:EDHL #LeckerLayout Taxiways\A:freetext
 Free Text:EDHL #LeckerLayout Taxiways\B:freetext
 Free Text:EDHL #LeckerLayout Taxiways\C:freetext
 Free Text:EDHL #LeckerLayout Taxiways\D:freetext
+Free Text:EDHL #LeckerLayout Taxiways\Z1:freetext
+Free Text:EDHL #LeckerLayout Taxiways\Z2:freetext
 Geo:EDHL Groundlayout #LeckerLayout Infrastructure:
 Geo:EDHL Groundlayout #LeckerLayout Taxiways:
 Regions:EDHL #LeckerLayout:polygon
-Regions:EDHL #LeckerLayout NOTAMS:polygon
 Regions:EDHL #LeckerLayout RWY Ma:polygon
 SHOWC:1
 SHOWSB:1
