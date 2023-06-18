@@ -1,2 +1,3 @@
+//Remove "//" in front of this setting to use the RDF function
 //RDF_Mode=1
 
