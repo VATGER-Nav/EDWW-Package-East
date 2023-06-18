@@ -15,9 +15,13 @@ Free Text:ETSH Taxiways\9:freetext
 Free Text:ETSH Taxiways\A:freetext
 Free Text:ETSH Taxiways\B:freetext
 Free Text:ETSH Taxiways\C:freetext
+Free Text:ETSH Taxiways\Cargo South:freetext
 Free Text:ETSH Taxiways\E:freetext
 Free Text:ETSH Taxiways\F:freetext
 Free Text:ETSH Taxiways\Helipad:freetext
+Free Text:ETSH Taxiways\Lane A:freetext
+Free Text:ETSH Taxiways\Lane B:freetext
+Free Text:ETSH Taxiways\Lane C:freetext
 Free Text:ETSH Taxiways\P:freetext
 Free Text:ETSH Taxiways\Q:freetext
 Free Text:ETSH Taxiways\R:freetext
@@ -25,6 +29,7 @@ Free Text:ETSH Taxiways\Ramp 1:freetext
 Free Text:ETSH Taxiways\Ramp 4:freetext
 Free Text:ETSH Taxiways\Ramp 5:freetext
 Free Text:ETSH Taxiways\Ramp 6:freetext
+Free Text:ETSH Taxiways\SAR:freetext
 Free Text:ETSH Taxiways\T:freetext
 Free Text:ETSH Taxiways\T:freetext
 Free Text:ETSH Taxiways\T:freetext
