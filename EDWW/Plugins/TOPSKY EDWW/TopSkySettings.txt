@@ -137,7 +137,7 @@ FPCP_4D_PathBuffer=4000
 FPCP_Inhibit_VFR=1
 
 FlightLeg_Font=EuroScope
-FlightLeg_FontSize=12
+FlightLeg_FontSize=10
 FlightLeg_Label_Time=1
 FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
