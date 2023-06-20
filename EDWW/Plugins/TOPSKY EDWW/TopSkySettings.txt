@@ -324,12 +324,12 @@ Window_CPDLC_Setting=1,1,248
 Window_SM_LeaveHoldTime=2
 Window_MsgIn=1,980,48
 
-WXR_Latitude=52,5
+WXR_Latitude=53.5
 WXR_Latitude_Max=56
-WXR_Latitude_Min=49
-WXR_Longitude=12,5
+WXR_Latitude_Min=50
+WXR_Longitude=9.8
 WXR_Longitude_Max=18
-WXR_Longitude_Min=7
+WXR_Longitude_Min=5
 WXR_Brightness=7
 WXR_Gain=120
 WXR_Zoom=5
