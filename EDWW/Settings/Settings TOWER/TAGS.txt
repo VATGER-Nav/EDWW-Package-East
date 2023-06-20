@@ -1,187 +1,509 @@
 TAGS
-TAGFAMILY:DFS_TWR
-TAGTYPE:0:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:0:0:0::0:1:::1
-TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:58::0:1:0:0:TopSky plugin:0:1:::6
-TAGITEM:18::0:0:0:0::0:1:::1
+TAGFAMILY:TopDFS
+TAGTYPE:0:6:1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::1:0:0:0:RG Bremen:0:1:::4
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::5
-TAGITEM:3::0:0:0:0::0:1:::0
-TAGITEM:70::0:1:0:0::3:1:::0
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:1:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:1:S:0:0:0:0::0:0:::1
-TAGITEM:43::0:0:0:0:TopSky plugin:0:0:::1
-TAGITEM:1:I:0:1:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:123::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:8:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:246::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:266::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:115::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:64::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:52::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:126::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:55::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:234::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:8::0:1:0:0:IASsure:0:1:::1
+TAGITEM:1:N:0:1:0:0::8:1:::1
 TAGITEM:3::0:0:0:0:IASsure:0:1:::1
+TAGTYPE:2:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:80::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:46::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:81:81:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:264::0:1:79:79:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:265::0:1:80:80:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:2::0:0:0:0:RG Bremen:0:1:::3
-TAGITEM:641::0:1:0:0:VCH:0:1:::1
-TAGTYPE:1:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:0:0:0::0:1:::1
-TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:58::0:1:0:0:TopSky plugin:0:1:::6
-TAGITEM:18::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:8:6:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:71::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:5::0:1:7:7:TopSky plugin:0:1:::4
+TAGITEM:106::0:1:869:869:TopSky plugin:0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:40::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::1:0:0:0:RG Bremen:0:1:::4
+TAGITEM:10013::0:0:0:97:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:10027::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:131::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:43::0:1:11:44:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:13:16:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::5
-TAGITEM:3::0:0:0:0::0:1:::0
-TAGITEM:70::0:1:0:0::3:1:::0
+TAGITEM:79::0:0:7:1:TopSky plugin:0:1::Ground Radar plugin:1
+TAGITEM:234::0:1:87:87:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:28::0:1:45:99::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:146::0:1:14:14:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:69::0:1:32:7:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:12:15:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:1:S:0:0:0:0::0:1:::1
-TAGITEM:43::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:1:I:0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1:TopSky plugin::1
+TAGITEM:271::0:1:18:18:TopSky plugin:0:1:::1
+TAGITEM:163::0:1:19:19:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:1:N:0:1:0:0::0:1:::1
 TAGITEM:3::0:0:0:0:IASsure:0:1:::1
+TAGITEM:7::0:1:0:107:IASsure:0:1::IASsure:1
+TAGITEM:66::0:1:29:29::0:1:::4
+TAGTYPE:3:2:1
+TAGITEM:1::0:0:0:0:Squawk Message/Warning:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:2::0:0:0:0:RG Bremen:0:1:::3
-TAGITEM:641::0:1:0:0:VCH:0:1:::1
-TAGTYPE:2:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:0:0:0::0:1:::1
-TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:58::0:0:0:0:TopSky plugin:0:1:::6
-TAGITEM:18::0:0:869:0::0:1:CCAMS::6
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:4:6:1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::1:0:8:8:RG Bremen:0:1:::4
-TAGITEM:10::0:1:0:0::0:1:::1
-TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:1
-TAGITEM:2::0:1:869:869::0:1:CCAMS:CCAMS:1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:650:650::0:1:VCH:VCH:1
-TAGITEM:3::0:0:0:0::0:1:::1
-TAGITEM:20::0:1:11:11::0:1:::1
-TAGITEM:70::0:1:0:0::3:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::0:1:7:99::0:1::TopSky plugin:1
-TAGITEM:16::0:1:32:32::0:1:::1
-TAGITEM:47::0:1:19:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:641::0:1:0:0:VCH:0:1:::1
-TAGITEM:25::0:1:14:14::0:1:::1
-TAGITEM:73::0:1:0:0::0:1:::1
-TAGITEM:66::0:1:29:29::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:2::0:0:0:0:RG Bremen:0:1:::3
-TAGTYPE:3:0:0
-TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
-TAGITEM:3::0:1:0:0:RG Bremen:2:1:::1
-TAGTYPE:4:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:0:0:0::0:1:::1
-TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:58::0:1:0:0:TopSky plugin:0:1:::6
-TAGITEM:18::0:0:0:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::1:0:0:0:RG Bremen:0:1:::4
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::0
-TAGITEM:3::0:0:0:0::0:1:::0
-TAGITEM:70::0:1:0:0::3:1:::0
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:9::0:0:0:0::0:1:::3
-TAGITEM:641::0:1:0:0:VCH:0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
 TAGTYPE:5:0:0
 TAGITEM:1::1:0:0:0::0:0:::1
-TAGTYPE:6:6:1
-TAGITEM:8::0:1:0:0::0:1:::1
-TAGITEM:18::0:1:0:0::0:1:::1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:11::0:0:0:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
-TAGITEM:3::0:1:0:0:RG Bremen:3:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
-TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
-TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:2::0:0:0:0:RG Bremen:0:1:::1
-TAGITEM:8::0:0:0:0:RG Bremen:0:0:::1
-TAGITEM:73::0:1:0:0::0:1:::1
+TAGTYPE:6:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
 TAGTYPE:7:0:0
 TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
 TAGTYPE:8:0:0
-TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
-TAGITEM:3::0:1:0:0:RG Bremen:2:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
 TAGTYPE:9:0:0
-TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
-TAGITEM:3::0:1:0:0:RG Bremen:2:1:::1
-TAGTYPE:10:0:0
-TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
-TAGTYPE:11:0:0
-TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
-TAGTYPE:12:0:0
-TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
-TAGTYPE:13:0:0
-TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
-TAGTYPE:14:0:0
-TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
-TAGTYPE:15:0:0
-TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
-TAGTYPE:16:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:0:0:0::0:1:::1
-TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:58::0:1:0:0:TopSky plugin:0:1:::6
-TAGITEM:18::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:10:6:1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::1:0:0:0:RG Bremen:0:1:::4
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::0
-TAGITEM:3::0:0:0:0::0:1:::0
-TAGITEM:70::0:1:0:0::3:1:::0
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:11:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:9::0:0:0:0::0:1:::3
-TAGITEM:641::0:1:0:0:VCH:0:1:::1
-TAGTYPE:17:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:0:0:0::0:1:::1
-TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:58::0:0:0:0:TopSky plugin:0:1:::6
-TAGITEM:18::0:0:869:0::0:1:CCAMS::6
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:123::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:3:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::1:0:8:8:RG Bremen:0:1:::4
-TAGITEM:10::0:1:0:0::0:1:::1
-TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:1
-TAGITEM:2::0:1:869:869::0:1:CCAMS:CCAMS:1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:246::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:266::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:115::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:64::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:52::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:126::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:55::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:234::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:12:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:80::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:46::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:81:81:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:264::0:1:79:79:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:265::0:1:80:80:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:650:650::0:1:VCH:VCH:1
-TAGITEM:3::0:0:0:0::0:1:::1
-TAGITEM:20::0:1:11:11::0:1:::1
-TAGITEM:70::0:1:0:0::3:1:::1
+TAGITEM:22::1:0:8:6:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:71::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:5::0:1:7:7:TopSky plugin:0:1:::4
+TAGITEM:106::0:1:869:869:TopSky plugin:0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:40::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:17::0:1:7:99::0:1::TopSky plugin:1
-TAGITEM:16::0:1:32:32::0:1:::1
-TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:10013::0:0:0:97:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:10027::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:131::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:43::0:1:11:44:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:13:16:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:641::0:1:0:0:VCH:0:1:::1
-TAGITEM:25::0:1:14:14::0:1:::1
-TAGITEM:73::0:1:0:0::0:1:::1
-TAGITEM:66::0:1:29:29::0:1:::1
+TAGITEM:79::0:0:7:1:TopSky plugin:0:1::Ground Radar plugin:1
+TAGITEM:234::0:1:87:87:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:28::0:1:45:99::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:146::0:1:14:14:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:69::0:1:32:7:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:12:15:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:2::0:0:0:0:RG Bremen:0:1:::3
+TAGITEM:25::0:0:14:14::0:1:TopSky plugin::1
+TAGITEM:271::0:1:18:18:TopSky plugin:0:1:::1
+TAGITEM:163::0:1:19:19:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:66::0:1:29:29::0:1:::4
+TAGTYPE:13:6:1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:14:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:123::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:246::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:266::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:115::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:64::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:52::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:126::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:55::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:234::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:15:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:80::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:46::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:81:81:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:264::0:1:79:79:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:265::0:1:80:80:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:8:6:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:71::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:5::0:1:7:7:TopSky plugin:0:1:::4
+TAGITEM:106::0:1:869:869:TopSky plugin:0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:40::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:97:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:10027::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:131::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:43::0:1:11:44:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:13:16:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:79::0:0:7:1:TopSky plugin:0:1::Ground Radar plugin:1
+TAGITEM:234::0:1:87:87:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:28::0:1:45:99::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:146::0:1:14:14:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:69::0:1:32:7:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:12:15:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1:TopSky plugin::1
+TAGITEM:271::0:1:18:18:TopSky plugin:0:1:::1
+TAGITEM:163::0:1:19:19:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:66::0:1:29:29::0:1:::4
+TAGTYPE:16:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:123::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:8:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:246::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:266::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:115::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:64::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:52::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:126::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:55::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:234::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:8::0:1:0:0:IASsure:0:1:::1
+TAGITEM:1:N:0:1:0:0::8:1:::1
+TAGITEM:3::0:0:0:0:IASsure:0:1:::1
+TAGTYPE:17:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:80::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:46::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:81:81:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:264::0:1:79:79:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:265::0:1:80:80:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:8:6:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:71::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:5::0:1:7:7:TopSky plugin:0:1:::4
+TAGITEM:106::0:1:869:869:TopSky plugin:0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:40::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:97:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:10027::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:131::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:43::0:1:11:44:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:13:16:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:79::0:0:7:1:TopSky plugin:0:1::Ground Radar plugin:1
+TAGITEM:234::0:1:87:87:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:28::0:1:45:99::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:146::0:1:14:14:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:69::0:1:32:7:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:12:15:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1:TopSky plugin::1
+TAGITEM:271::0:1:18:18:TopSky plugin:0:1:::1
+TAGITEM:163::0:1:19:19:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:1:N:0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0:IASsure:0:1:::1
+TAGITEM:7::0:1:0:107:IASsure:0:1::IASsure:1
+TAGITEM:66::0:1:29:29::0:1:::4
 TAGTYPE:18:0:0
 TAGITEM:1::1:0:0:0::0:0:::1
 TAGTYPE:19:0:0
 TAGITEM:1::1:0:0:0::0:0:::1
-TAGTYPE:20:6:1
-TAGITEM:8::0:1:0:0::0:1:::1
-TAGITEM:18::0:1:0:0::0:1:::1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:11::0:0:0:0::0:1:::1
+TAGTYPE:20:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGTYPE:21:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGTYPE:22:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGTYPE:23:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGFAMILY:TopDFS-OBS
+TAGTYPE:0:13:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::3
+TAGITEM:123::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:19::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:52::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:266::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:79::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:126::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:55::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:234::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:1:13:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:264::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::0
+TAGITEM:123::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:10027::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:19::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:52::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:266::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:115::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:126::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:55::0:1:0:0:TopSky plugin:0:0:::1
+TAGITEM:234::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:48::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:2:14:1
+TAGITEM:201::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:23::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:80::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:26::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:46::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:138::0:1:81:81:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:264::0:1:79:79:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:265::0:1:80:80:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:1::0:1:0:0:Squawk Message/Warning:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:8:6:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:71::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:5::0:1:7:7:TopSky plugin:0:1:::4
+TAGITEM:106::0:1:871:869:TopSky plugin:0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:40::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:10013::0:0:0:97:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:10027::0:1:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:131::0:0:97:97:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:43::0:1:11:44:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:56::0:1:13:16:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:120::0:0:30:59:TopSky plugin:0:1::TopSky plugin:0
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:79::0:0:7:1001:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:234::0:1:87:87:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:28::0:1:45:99::0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:146::0:1:14:14:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:69::0:1:32:7:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:12:15:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1:TopSky plugin::1
+TAGITEM:271::0:1:18:18:TopSky plugin:0:1:::1
+TAGITEM:163::0:1:19:19:TopSky plugin:0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:66::0:1:29:29::0:1:::4
+TAGTYPE:3:0:0
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:4:3:1
+TAGITEM:8::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
 TAGITEM:3::0:1:0:0:RG Bremen:3:1:::1
@@ -189,42 +511,272 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
 TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
 TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:0:0:RG Bremen:0:0:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:2::0:0:0:0:RG Bremen:0:1:::1
 TAGITEM:8::0:0:0:0:RG Bremen:0:0:::1
-TAGITEM:73::0:1:0:0::0:1:::1
-TAGTYPE:21:7:1
-TAGITEM:6::0:1:0:0::0:1:::1
-TAGITEM:5::0:1:0:0::0:1:::1
-TAGITEM:8::0:1:0:0::0:1:::1
-TAGITEM:18::0:1:0:0::0:1:::1
-TAGITEM:2::0:0:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
-TAGITEM:11::0:0:32:0::0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGTYPE:5:0:0
+TAGITEM:1::1:0:0:0::0:0:::1
+TAGTYPE:6:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGTYPE:7:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGTYPE:8:0:0
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:9:0:0
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
+TAGTYPE:10:3:1
+TAGITEM:8::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:1::1:0:8:0:RG Bremen:0:1:::1
+TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
+TAGITEM:3::0:1:0:0:RG Bremen:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:0:0:RG Bremen:0:0:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:8::0:0:0:0:RG Bremen:0:0:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGTYPE:11:15:1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:68::0:1:0:0::0:1:::1
+TAGITEM:67::0:1:0:0::0:1:::1
+TAGITEM:5::0:1:0:0::0:1:::1
+TAGITEM:6::0:1:0:0::0:1:::1
+TAGITEM:8::0:1:0:0::0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
+TAGITEM:3::0:1:0:0:RG Bremen:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:8::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:13::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:73::0:1:0:0::0:1:::1
+TAGTYPE:12:15:1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:68::0:1:0:0::0:1:::1
+TAGITEM:67::0:1:0:0::0:1:::1
+TAGITEM:5::0:1:0:0::0:1:::1
+TAGITEM:6::0:1:0:0::0:1:::1
+TAGITEM:8::0:1:0:0::0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:80:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:1::1:0:8:6:RG Bremen:0:1::TopSky plugin:1
 TAGITEM:10::0:1:0:0::0:1:::1
-TAGITEM:2::0:1:62:0::0:1:TopSky plugin::1
-TAGITEM:26::0:1:20:6::0:1:::4
+TAGITEM:2::0:1:871:869::0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
 TAGITEM:1:N:0:1:0:0::0:1:::1
 TAGITEM:3::0:0:0:0:RG Bremen:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
 TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
 TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
-TAGITEM:20::0:1:11:0::0:1:::1
+TAGITEM:11::0:1:11:12:RG Bremen:0:1::TopSky plugin:1
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
 TAGITEM:1:R:0:1:0:0::0:1:::1
-TAGITEM:22::0:0:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
+TAGITEM:24::0:1:13:16::0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:56::0:1:17:1::0:1:::1
-TAGITEM:47::0:1:19:0::0:1:::1
-TAGITEM:17::0:1:7:1::0:1:::1
-TAGITEM:23::0:1:12:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:25::0:0:14:0::0:1:::1
+TAGITEM:17::0:0:7:19::0:1:::1
+TAGITEM:28::0:1:10:99::0:1::TopSky plugin:1
 TAGITEM:16::0:1:32:0::0:1:::1
-TAGITEM:66::0:1:29:0::0:1:::1
+TAGITEM:23::0:1:12:15::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1::TopSky plugin:1
+TAGITEM:55::0:1:18:0::0:1:::1
+TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:66::0:1:29:29::0:1:::4
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:2::0:0:0:0:RG Bremen:0:1:::1
+TAGTYPE:13:3:1
+TAGITEM:8::0:0:0:0::0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
+TAGITEM:3::0:1:0:0:RG Bremen:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:0:0:RG Bremen:0:0:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:8::0:0:0:0:RG Bremen:0:0:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGTYPE:14:15:1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:68::0:1:0:0::0:1:::1
+TAGITEM:67::0:1:0:0::0:1:::1
+TAGITEM:5::0:1:0:0::0:1:::1
+TAGITEM:6::0:1:0:0::0:1:::1
+TAGITEM:8::0:1:0:0::0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:1::1:0:0:0:RG Bremen:0:1:::1
+TAGITEM:3::0:1:0:0:RG Bremen:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:8::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:13::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:73::0:1:0:0::0:1:::1
+TAGTYPE:15:15:1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:68::0:1:0:0::0:1:::1
+TAGITEM:67::0:1:0:0::0:1:::1
+TAGITEM:5::0:1:0:0::0:1:::1
+TAGITEM:6::0:1:0:0::0:1:::1
+TAGITEM:8::0:1:0:0::0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:80:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:1::1:0:8:6:RG Bremen:0:1::TopSky plugin:1
+TAGITEM:10::0:1:0:0::0:1:::1
+TAGITEM:2::0:1:871:869::0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:1:N:0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:11:12:RG Bremen:0:1::TopSky plugin:1
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
+TAGITEM:24::0:1:13:16::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:17::0:0:7:19::0:1:::1
+TAGITEM:28::0:1:10:99::0:1::TopSky plugin:1
+TAGITEM:16::0:1:32:0::0:1:::1
+TAGITEM:23::0:1:12:15::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1::TopSky plugin:1
+TAGITEM:55::0:1:18:0::0:1:::1
+TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:66::0:1:29:29::0:1:::4
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::0:0:0:0:RG Bremen:0:1:::1
+TAGTYPE:16:15:1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:49::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:228::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:68::0:1:0:0::0:1:::1
+TAGITEM:67::0:1:0:0::0:1:::1
+TAGITEM:5::0:1:0:0::0:1:::1
+TAGITEM:6::0:1:0:0::0:1:::1
+TAGITEM:8::0:1:0:0::0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:40::0:1:0:0:TopSky plugin:3:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:131::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:43::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:33::0:0:0:0::0:1:::1
+TAGITEM:79::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:54::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:47::0:1:0:0:TopSky plugin:0:1:::1
+TAGTYPE:17:15:1
+TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:49::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:228::0:1:69:70:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:68::0:1:0:0::0:1:::1
+TAGITEM:67::0:1:0:0::0:1:::1
+TAGITEM:5::0:1:0:0::0:1:::1
+TAGITEM:6::0:1:0:0::0:1:::1
+TAGITEM:8::0:1:0:0::0:1:::1
+TAGITEM:138::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:265::0:1:80:0:TopSky plugin:0:1:TopSky plugin::1
+TAGITEM:119::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:65::0:1:0:0::0:1:::1
+TAGITEM:107::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:78::0:0:0:0:TopSky plugin:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:1::1:0:8:6:RG Bremen:0:1::TopSky plugin:1
+TAGITEM:10::0:1:0:0::0:1:::1
+TAGITEM:2::0:1:871:869::0:1:CCAMS:CCAMS:1
+TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:4
+TAGITEM:1:N:0:1:0:0::0:1:::1
+TAGITEM:3::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:4::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:5::0:1:0:0:RG Bremen:0:1:::1
+TAGITEM:6::0:0:0:0:RG Bremen:0:1:::1
+TAGITEM:11::0:1:11:12:RG Bremen:0:1::TopSky plugin:1
+TAGITEM:1:X:0:1:0:0::0:1:::1
+TAGITEM:29::0:0:26:16::0:1:::1
+TAGITEM:1:R:0:1:0:0::0:1:::1
+TAGITEM:22::0:0:30:59::0:1::TopSky plugin:1
+TAGITEM:24::0:1:13:16::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:17::0:0:7:19::0:1:::1
+TAGITEM:28::0:1:10:99::0:1::TopSky plugin:1
+TAGITEM:16::0:1:32:0::0:1:::1
+TAGITEM:23::0:1:12:15::0:1::TopSky plugin:1
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:25::0:0:14:14::0:1::TopSky plugin:1
+TAGITEM:55::0:1:18:0::0:1:::1
+TAGITEM:47::0:1:19:0::0:1:::1
+TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::1
+TAGITEM:66::0:1:29:29::0:1:::4
+TAGITEM:0::0:0:0:0::0:1:::1
+TAGITEM:2::0:0:0:0:RG Bremen:0:1:::1
+TAGTYPE:18:0:0
+TAGITEM:1::1:0:0:0::0:0:::1
+TAGTYPE:19:0:0
+TAGITEM:1::1:0:0:0::0:0:::1
+TAGTYPE:20:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
+TAGTYPE:21:0:0
+TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
 TAGTYPE:22:0:0
 TAGITEM:1::1:0:33:0:RG Bremen:0:1:::1
 TAGTYPE:23:0:0
@@ -273,7 +825,7 @@ TAGITEM:2::0:1:1:0:Ground Radar plugin:0:1:Ground Radar plugin::9
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:9::1:0:8:1::0:1::Ground Radar plugin:9
 TAGITEM:63::0:1:0:0::0:1:::1
-TAGITEM:66::0:1:20:42:TopSky plugin:0:1::TopSky plugin:1
+TAGITEM:66::0:1:20:0:TopSky plugin:0:1:::1
 TAGITEM:16::0:1:0:0::0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:56::0:0:17:0::0:1:::1
