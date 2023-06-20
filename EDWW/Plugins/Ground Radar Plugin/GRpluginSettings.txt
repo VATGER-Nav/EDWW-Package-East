@@ -8,9 +8,8 @@ GroundLabel_Font=EuroScope
 AppLabel_Font=EuroScope
 TowerLabel_Font=EuroScope
 
-GroundLabel_Filter_NoState=0
-GroundLabel_Filter_Parked=0
-
+GroundLabel_Filter_NoState=1
+GroundLabel_Filter_Parked=1
 
 Color_SelectedLabelFill_Gnd=0,0,50
 Color_Warning=255,128,0
@@ -101,6 +100,7 @@ List_Departure_Items=30
 [EDDB]
 Airport_Elevation=156
 Airport_Radius=3
+GroundLabel_Filter_NoState=0
 
 [EDDC]
 Airport_Elevation=754
@@ -153,6 +153,7 @@ Window_APP_AltFilter=15000
 Window_APP_Extensions=6
 Window_APP_Scale=10.0
 Window_APP_Extensions_TickWidth=0.5
+
 
 [EDHI]
 Window_APP=1,1200,20
