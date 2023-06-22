@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\User\Euroscope\EDWW-DFS-Pack-NG-main\EDWW-EDWW_20230224212824-230201-0004.sct
-SECTORTITLE:EDWW-EDWW_20230224212824-230201-0004.sct
 Free Text:EDDP Taxiways and Parking\101:freetext
 Free Text:EDDP Taxiways and Parking\105:freetext
 Free Text:EDDP Taxiways and Parking\111:freetext
