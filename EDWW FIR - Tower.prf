@@ -59,12 +59,6 @@ Settings	SettingsfileTAXIOUT	\EDWW\Settings\Settings TOWER\GENERAL.txt
 Settings	SettingsfileTAKEOFF	\EDWW\Settings\Settings TOWER\GENERAL.txt
 Settings	SettingsfileADCS	\EDWW\Settings\Settings TOWER\GENERAL.txt
 Settings	SettingsfileTAXIIN	\EDWW\Settings\Settings TOWER\GENERAL.txt
-Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
-Settings	airlines	\EDWW\ICAO\ICAO_Airlines.txt
-Settings	airportcoords	\EDWW\NavData\icao.txt
-Settings	airports	\EDWW\ICAO\ICAO_Airports.txt
-Settings	airways	\EDWW\NavData\airway.txt
-Settings	alias	\EDWW\Alias\alias.txt
 Sounds	Sound0	\EDWW\Sounds\EDWW\handoff_request.wav
 Sounds	Sound1	\EDWW\Sounds\EDWW\handoff_accept.wav
 Sounds	Sound10	\EDWW\Sounds\EDWW\disconnected.wav
@@ -83,14 +77,15 @@ Sounds	Sound8	\EDWW\Sounds\EDWW\supervisor_message.wav
 Sounds	Sound7	\EDWW\Sounds\EDWW\landline_request.wav
 Sounds	Sound9	\EDWW\Sounds\EDWW\connected.wav
 RecentFiles	Recent1	\EDWW\ASR\EDWW-TWR.asr
-Settings	sector	\EDWW-EDWW_20230525140914-230501-0006.sct
 TeamSpeakVccs	TsVccsMiniControlX	1375
 TeamSpeakVccs	TsVccsMiniControlY	24
 TeamSpeakVccs	Ts3DialogLeft	1066
 TeamSpeakVccs	Ts3DialogTop	495
 TeamSpeakVccs	Ts3DialogRight	1961
 TeamSpeakVccs	Ts3DialogBottom	1095
+Settings	sector	\EDWW-EDWW_20230618190701-230601-0004.sct
 LastSession	atis_url0	http://uniatis.net/atis.php?arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&apptype=ILS&info=$atiscodeA&metar=$metar($atisairportA)&nognd
 LastSession	atis_url1	http://uniatis.net/atis.php?arr=$arrrwy($atisairportB)&dep=$deprwy($atisairportB)&apptype=ILS&info=$atiscodeB&metar=$metar($atisairportB)&nognd
 LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&apptype=ILS&info=$atiscodeC&metar=$metar($atisairportC)&nognd
 LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar($atisairportD)&nognd
+LastSession	atis_freq4	118000

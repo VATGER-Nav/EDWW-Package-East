@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
 ARTCC boundary:FIR EDMM:
 Geo:EDWW COAST:
 Geo:EDWW Highway:
@@ -31,6 +29,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:DFS_TWR
-WINDOWAREA:52.117590:12.513889:52.617591:14.535539
+WINDOWAREA:51.157059:5.991208:54.344977:15.631186
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1
