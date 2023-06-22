@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\User\Euroscope\EDWW-DFS-Pack-NG-main\EDWW-EDWW_20230224212824-230201-0004.sct
-SECTORTITLE:EDWW-EDWW_20230224212824-230201-0004.sct
 Fixes:HOZ15:symbol
 Fixes:HOZ8:symbol
 NDBs:ABU:symbol

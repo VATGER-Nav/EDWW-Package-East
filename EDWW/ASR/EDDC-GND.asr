@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
 Free Text:EDDC Taxiway And Parking\02:freetext
 Free Text:EDDC Taxiway And Parking\03:freetext
 Free Text:EDDC Taxiway And Parking\04:freetext
