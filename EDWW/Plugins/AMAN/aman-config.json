@@ -22,42 +22,69 @@
         "EDDH 05": {
             "targetFixes": [ "DH213", "DH231" ],
             "viaFixes": [ "RIBSO", "BOGMU", "RARUP", "NOLGO" ],
-            "tagLayout": "myLayout",
+            "tagLayout": "EDWW",
             "destinationAirports": [ "EDDH" ]
         },
         "EDDH 15": {
             "targetFixes": [ "DH434", "DH413" ],
             "viaFixes": [ "RIBSO", "BOGMU", "RARUP", "NOLGO" ],
-            "tagLayout": "myLayout",
+            "tagLayout": "EDWW",
             "destinationAirports": [ "EDDH" ]
         },
         "EDDH 23": {
             "targetFixes": [ "DH633", "DH613" ],
             "viaFixes": [ "RIBSO", "BOGMU", "RARUP", "NOLGO" ],
-            "tagLayout": "myLayout",
+            "tagLayout": "EDWW",
             "destinationAirports": [ "EDDH" ]
         },
         "EDDH 33": {
             "targetFixes": [ "DH812", "DH832" ],
             "viaFixes": [ "RIBSO", "BOGMU", "RARUP", "NOLGO" ],
-            "tagLayout": "myLayout",
+            "tagLayout": "EDWW",
             "destinationAirports": [ "EDDH" ]
         },
-        "...": {
-            "targetFixes": [ "....", "...." ],
-            "viaFixes": [ "..." ],
-            "tagLayout": "simpleLayout",
-            "defaultTimeSpan": 60,
-            "destinationAirports": [ "....", "...." ]
+        "EDDV 27L/R": {
+            "targetFixes": [ "DV563", "DV583" ],
+            "viaFixes": [ "NIE", "CEL", "SAS" ],
+            "tagLayout": "EDWW",
+            "destinationAirports": [ "EDDV" ]
+        },
+        "EDDV 09L/R": {
+            "targetFixes": [ "DV463", "DV483" ],
+            "viaFixes": [ "NIE", "CEL", "ROBEG" ],
+            "tagLayout": "EDWW",
+            "destinationAirports": [ "EDDV" ]
+        },
+        "EDDW 27": {
+            "targetFixes": [ "DW501", "DW511" ],
+            "viaFixes": [ "GIBMA", "EKROV", "PIXUR", "VERED" ],
+            "tagLayout": "EDWW",
+            "destinationAirports": [ "EDDW" ]
+        },
+        "EDDW 09": {
+            "targetFixes": [ "DW404", "DW411" ],
+            "viaFixes": [ "GIBMA", "EKROV", "PIXUR", "VERED" ],
+            "tagLayout": "EDWW",
+            "destinationAirports": [ "EDDW" ]
         }
     },
     "tagLayouts": {
         "myLayout": [
             { "source": "assignedRunway", "width": 4 },
-            { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "callsign", "width": 8 , "isViaFixIndicator": true},
+            { "source": "static", "defaultValue": "ï¿½", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
+            { "source": "remainingDistance", "width": 4, "rightAligned": true },
+            { "source": "static", "width": 1 },
+            { "source": "directRouting", "width": 5, "rightAligned": true, "defaultValue": "-----" }
+        ],
+        "EDWW": [
+            { "source": "assignedRunway", "width": 4 },
+            { "source": "callsign", "width": 8 , "isViaFixIndicator": true},
+            { "source": "aircraftType", "width": 5 },
+            { "source": "aircraftWtc", "width": 2 },
+            { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
             { "source": "remainingDistance", "width": 4, "rightAligned": true },
             { "source": "static", "width": 1 },
             { "source": "directRouting", "width": 5, "rightAligned": true, "defaultValue": "-----" }
