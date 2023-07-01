@@ -1,15 +1,17 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:D:\VATSIM\Sectorfiles\DFS_PACK_NG_DEV\EDWW-EDWW_20230618190701-230601-0004.sct
+SECTORTITLE:EDWW-EDWW_20230618190701-230601-0004.sct
 ARTCC boundary:FIR EDMM:
 Geo:EDWW COAST:
 Geo:EDWW Highway:
 NDBs:DBR:symbol
 NDBs:DIP:symbol
-NDBs:MW:symbol
 NDBs:SL:symbol
 Regions:EDDC Dresden City:polygon
 Regions:EDDE Erfurt City:polygon
+Regions:EDDH #LeckerLayout City:polygon
 Regions:EDDP Leipzig City:polygon
 Regions:EDDV #LeckerLayout City:polygon
 Regions:EDDW #LeckerLayout City:polygon
@@ -29,6 +31,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:DFS_TWR
-WINDOWAREA:51.157059:5.991208:54.344977:15.631186
+WINDOWAREA:52.861265:8.550141:54.167036:12.498677
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1

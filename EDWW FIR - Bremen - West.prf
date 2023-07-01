@@ -53,7 +53,6 @@ Settings	airportcoords	\EDWW\NavData\icao.txt
 Settings	airports	\EDWW\ICAO\ICAO_Airports.txt
 Settings	airways	\EDWW\NavData\airway.txt
 Settings	alias	\EDWW\Alias\alias.txt
-Settings	sector	\EDWW-EDWW_20230618190701-230601-0004.sct
 Plugins	Plugin0	\EDWW\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
@@ -85,18 +84,3 @@ LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep
 LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar($atisairportD)&nognd&depfreq=
 LastSession	atis_freq4	118000
 RecentFiles	Recent1	\EDWW\ASR\EDWW-CTR-APP.asr
-LastSession	connecttype	0
-LastSession	callsign	
-LastSession	realname	
-LastSession	certificate	
-LastSession	password	
-LastSession	facility	6
-LastSession	rating	4
-LastSession	server	SweatBox
-LastSession	tovatsim	1
-LastSession	range	300
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	atis2	Callsign BREMEN RADAR - CPDLC/PDC on EDWA (CPDLC above FL245 only!)
-LastSession	atis3	Aller Sector - Check sector coverage at vatglasses.uk
-LastSession	atis4	Submit your feedback at feedback.vatger.de
