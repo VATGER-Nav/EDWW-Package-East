@@ -96,9 +96,10 @@ Color_SEP_Tool_6=255,255,255
 Color_SEP_Tool_7=255,255,255
 Color_Global_Menu_Highlight=255,128,0
 
-//LABELS (4 numbers giving the initial state for each state: Co (0/1), Ass (0/1), Red (0/1) and No (0/1). The entered settings for states that don't have a selection box in the window are disregarded)
+//LABELS (4 numbers giving the initial state for each state: Co (0/1), Ass (0/1), Red (0/1) and No (0/1). 
+// The entered settings for states that don't have a selection box in the window are disregarded)
 Label_N_Default=0
-Label_ADES_Default=1100
+Label_ADES_Default=0100
 Label_XFL_Default=0000
 Label_PEL_Default=0000
 
@@ -123,12 +124,12 @@ Color_Freq_Indicator=255,128,0
 Color_Info_Coord=255,128,0
 Color_Track_Highlight=255,255,255
 Color_Suite_Highlight=0,255,0
-Color_Track_Default=0,180,0
+Color_Track_Default=255,255,255
 Color_Unknown=0,180,0
 Color_VFR=0,180,0
 Color_Sid_Star_Allocation=0,255,0
 Color_QDM=0,255,0
-Color_Heading_Vector=0,255,0
+Color_Heading_Vector=255,255,255
 
 CPDLC_FSM_CLD_Header=CLD <hour><min> <year2><month2><day> <adep2> PDC <number> <callsign>
 CPDLC_FSM_RCD_Header=FSM <hour><min> <year2><month2><day> <adep2> <callsign>

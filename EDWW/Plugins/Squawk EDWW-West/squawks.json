@@ -1,258 +1,208 @@
 {
-   "NonDiscreteColor":"#D2691E",
-   "NonDiscreteMessage":"SSR",
+   "NonDiscreteColor":"#8B0000",
+   "NonDiscreteMessage":"NDSSR",
    "NonDiscrete":[
       "1200",
+	   "1234",
       "2000",
       "2200",
-	  "1234",
       "0000"
    ],
    "Squawks":[
       {
          "code":"7740",
          "message":"FDH",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"7741",
          "message":"FDB",
-         "color":"#3295ff "
-      },	  
-	  {
+         "color":"#367f0b"
+      },
+      {
          "code":"7742",
          "message":"FDL",
-         "color":"#3295ff "
-      },	  
-      {
-         "code":"4451",
-         "message":"FDR",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4453",
-         "message":"FDM",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4454",
-         "message":"FDO",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4452",
-         "message":"FDS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"7744",
-         "message":"FDC",
-         "color":"#3295ff "
-      },
-    {
-         "code":"7745",
-         "message":"FHO",
-         "color":"#3295ff "
-      },	  
-      {
-         "code":"4450",
-         "message":"FDF",
-         "color":"#3295ff "
-      },
-      {
-         "code":"7740",
-         "message":"FIS",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"7743",
          "message":"FDV",
-         "color":"#3295ff "
-      },  
+         "color":"#367f0b"
+      },
+      {
+         "code":"7744",
+         "message":"FDC",
+         "color":"#367f0b"
+      },
+      {
+         "code":"7745",
+         "message":"FDHO",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4450",
+         "message":"FDF",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4451",
+         "message":"FDR",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4452",
+         "message":"FDS",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4453",
+         "message":"FDM",
+         "color":"#367f0b"
+      },
+      {
+         "code":"4454",
+         "message":"FDO",
+         "color":"#367f0b"
+      },
       {
          "code":"7000",
          "message":"V",
-         "color":"#3295ff"
+         "color":"#367f0b"
+      },
+      {
+         "code":"7001",
+         "message":"VOUT",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7002",
+         "message":"VIN",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7003",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7004",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7005",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7006",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7007",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7008",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7009",
+         "message":"VDH",
+         "color":"#367f0b "
+      },
+      {
+         "code":"7010",
+         "message":"VDH",
+         "color":"#367f0b "
       },
       {
          "code":"0020",
          "message":"RESCU",
-         "color":"#3295ff "
+         "color":"#367f0b"
+      },
+	  {
+         "code":"0022",
+         "message":"TMZ",
+         "color":"#367f0b "
       },
       {
          "code":"0033",
          "message":"VM",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0034",
          "message":"SAR",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0023",
          "message":"BPO",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0025",
          "message":"PJE",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0027",
          "message":"ACRO",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0030",
          "message":"CAL",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0035",
          "message":"AIRCL",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0036",
          "message":"POL",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
       {
          "code":"0037",
          "message":"BIV",
-         "color":"#3295ff "
+         "color":"#367f0b"
       },
-      {
-         "code":"0022",
-         "message":"TMZ",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4230",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4231",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4232",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4233",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4234",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4235",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4236",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4237",
-         "message":"NS",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4270",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4271",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4272",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4273",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4274",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4275",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4276",
-         "message":"NH",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4277",
-         "message":"NH",
-         "color":"#3295ff "
-      },	  
-      {
-         "code":"4476",
-         "message":"NSZ",
-         "color":"#3295ff "
-      },
-      {
+	  {
          "code":"4472",
-         "message":"NTZ",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4671",
-         "message":"DHZ",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4471",
-         "message":"DWZ",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4676",
-         "message":"DVZ",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4404",
-         "message":"DPZ",
-         "color":"#3295ff "
-      },
-      {
-         "code":"4410",
          "message":"TMZ",
-         "color":"#3295ff "
+         "color":"#367f0b "
       },
-      {
-         "code":"6104",
-         "message":"DGZ",
-         "color":"#3295ff "
-      },	  
-      {
-         "code":"6102",
-         "message":"LPZ",
-         "color":"#3295ff "
+	  {
+         "code":"4473",
+         "message":"CHRIS",
+         "color":"#367f0b "
+      },
+	  {
+         "code":"4670",
+         "message":"LIB",
+         "color":"#367f0b "
+      },
+	  {
+         "code":"4671",
+         "message":"TMZ",
+         "color":"#367f0b "
+      },
+	  {
+         "code":"4675",
+         "message":"HI",
+         "color":"#367f0b "
+      },
+	  {
+         "code":"4676",
+         "message":"TMZ",
+         "color":"#367f0b "
       }	  
    ]
 }

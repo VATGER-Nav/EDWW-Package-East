@@ -44,7 +44,7 @@ Settings	SettingsfileSCREEN	\EDWW\Settings\Settings EDWW\SCREEN.txt
 Settings	SettingsfileSEL	\EDWW\Settings\Settings EDWW\SEL.txt
 Settings	SettingsfileSIL	\EDWW\Settings\Settings EDWW\SIL.txt
 Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\Settings EDWW\SYMBOLOGY - West.txt
-Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS.txt
+Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS - West.txt
 Settings	SettingsfileVCCS	\EDWW\Settings\Settings EDWW\VCCS.txt
 Settings	SettingsfileVOICE	\EDWW\Settings\Settings EDWW\VOICE.txt
 Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
@@ -86,13 +86,13 @@ LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep
 LastSession	atis_freq4	118000
 RecentFiles	Recent1	\EDWW\ASR\EDWW-CTR-APP.asr
 LastSession	connecttype	0
-LastSession	callsign	
-LastSession	realname	
-LastSession	certificate	
-LastSession	password	
-LastSession	facility	0
+LastSession	callsign	EDWW_A_CTR
+LastSession	realname	Sebastian Kramer
+LastSession	certificate	1289607
+LastSession	password	gSS9QNjpFct9
+LastSession	facility	6
 LastSession	rating	4
-LastSession	server	AUTOMATIC
+LastSession	server	SweatBox
 LastSession	tovatsim	1
 LastSession	range	300
 LastSession	proxyserver	localhost
@@ -105,3 +105,6 @@ RecentFiles	Recent6	\EDWW\ASR\EDVK-GND.asr
 RecentFiles	Recent7	\EDWW\ASR\EDXW-GND.asr
 RecentFiles	Recent8	\EDWW\ASR\EDVE-GND.asr
 RecentFiles	Recent9	\EDWW\ASR\EDDW-GND.asr
+LastSession	atis2	Callsign BREMEN RADAR - CPDLC/PDC on EDWA (CPDLC above FL245 only!)
+LastSession	atis3	Aller Sector - Check sector coverage at vatglasses.uk
+LastSession	atis4	Submit your feedback at feedback.vatger.de

@@ -52,7 +52,7 @@ Settings	SettingsfileSCREEN	\EDWW\Settings\Settings EDWW\SCREEN.txt
 Settings	SettingsfileSEL	\EDWW\Settings\Settings EDWW\SEL.txt
 Settings	SettingsfileSIL	\EDWW\Settings\Settings EDWW\SIL.txt
 Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\Settings EDWW\SYMBOLOGY - East.txt
-Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS.txt
+Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS - East.txt
 Settings	SettingsfileVCCS	\EDWW\Settings\Settings EDWW\VCCS.txt
 Settings	SettingsfileVOICE	\EDWW\Settings\Settings EDWW\VOICE.txt
 Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
