@@ -135,8 +135,3 @@ PROFILE:ETNS_P_APP:150:5
 ATIS2:Callsign SCHLESWIG PRESICION
 ATIS3:For PAR Approach only! No readback of instructions required!
 ATIS4:Submit your feedback at feedback.vatger.de
-PROFILE:SK_OBS:300:0
-ATIS2:
-ATIS3:
-ATIS4:
-END
