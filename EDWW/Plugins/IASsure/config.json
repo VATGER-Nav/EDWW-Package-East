@@ -1,11 +1,15 @@
 {
     "mach":{
+        "prefix": "M",
         "digits":2,
-        "thresholdFL":245
+        "thresholdFL":245,
+        "unreliableIndicator": "--",
+        "unreliableColor": "123,123,123"
     },
-    "prefix":{
-        "ias":"N",
-        "mach":"M"
+    "ias":{
+        "prefix": "N",
+        "unreliableIndicator": "--",
+        "unreliableColor": "123,123,123"
     },
     "weather":{
         "url":"https://wx.vatsim-germany.org/api/regions/EDXX/wx",
