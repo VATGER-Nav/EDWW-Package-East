@@ -38,7 +38,7 @@ Plugins	Plugin9Display0	Ground Radar display
 Plugins	Plugin9Display1	Standard ES radar screen
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Settings	Settingsfile	\EDWW\Settings\Settings TOWER\GENERAL.txt
+Settings	Settingsfile	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
 Settings	SettingsfileARR	\EDWW\Settings\Settings TOWER\ARR.txt
 Settings	SettingsfileCONFLICT	\EDWW\Settings\Settings TOWER\CONFLICT.txt
 Settings	SettingsfileDEP	\EDWW\Settings\Settings TOWER\DEP.txt
@@ -53,12 +53,12 @@ Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\Settings TOWER\SYMBOLOGY.txt
 Settings	SettingsfileTAGS	\EDWW\Settings\Settings TOWER\TAGS.txt
 Settings	SettingsfileVCCS	\EDWW\Settings\Settings TOWER\VCCS.txt
 Settings	SettingsfileVOICE	\EDWW\Settings\Settings TOWER\VOICE.txt
-Settings	SettingsfileORIGPLANE	\EDWW\Settings\Settings TOWER\GENERAL.txt
-Settings	SettingsfileSTUP	\EDWW\Settings\Settings TOWER\GENERAL.txt
-Settings	SettingsfileTAXIOUT	\EDWW\Settings\Settings TOWER\GENERAL.txt
-Settings	SettingsfileTAKEOFF	\EDWW\Settings\Settings TOWER\GENERAL.txt
-Settings	SettingsfileADCS	\EDWW\Settings\Settings TOWER\GENERAL.txt
-Settings	SettingsfileTAXIIN	\EDWW\Settings\Settings TOWER\GENERAL.txt
+Settings	SettingsfileORIGPLANE	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
+Settings	SettingsfileSTUP	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
+Settings	SettingsfileTAXIOUT	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
+Settings	SettingsfileTAKEOFF	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
+Settings	SettingsfileADCS	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
+Settings	SettingsfileTAXIIN	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
 Sounds	Sound0	\EDWW\Sounds\EDWW\handoff_request.wav
 Sounds	Sound1	\EDWW\Sounds\EDWW\handoff_accept.wav
 Sounds	Sound10	\EDWW\Sounds\EDWW\disconnected.wav
@@ -88,3 +88,4 @@ LastSession	atis_url1	http://uniatis.net/atis.php?arr=$arrrwy($atisairportB)&dep
 LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&apptype=ILS&info=$atiscodeC&metar=$metar($atisairportC)&nognd&depfreq=
 LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar($atisairportD)&nognd&depfreq=
 LastSession	atis_freq4	118000
+Settings	sector	\EDWW-EDWW_20230621123840-230601-0007.sct

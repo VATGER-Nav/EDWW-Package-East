@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\VATSIM\Sectorfiles\DFS_PACK_NG_DEV\EDWW-EDWW_20230618190701-230601-0004.sct
-SECTORTITLE:EDWW-EDWW_20230618190701-230601-0004.sct
 ARTCC boundary:FIR EDMM:
 Geo:EDWW COAST:
 Geo:EDWW Highway:

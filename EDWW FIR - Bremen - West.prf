@@ -32,10 +32,10 @@ TeamSpeakVccs	Ts3DialogRight	1961
 TeamSpeakVccs	Ts3DialogBottom	1095
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Settings	Settingsfile	\EDWW\Settings\Settings EDWW\GENERAL.txt
+Settings	Settingsfile	\EDWW\Settings\Settings EDWW\GENERAL - West.txt
 Settings	SettingsfileARR	\EDWW\Settings\Settings EDWW\ARR.txt
 Settings	SettingsfileCONFLICT	\EDWW\Settings\Settings EDWW\CONFLICT.txt
-Settings	SettingsfileDEP	\EDWW\Settings\Settings EDWW\DEP.txt
+Settings	SettingsfileDEP	\EDWW\Settings\Settings EDWW\DEP - West.txt
 Settings	SettingsfileFP	\EDWW\Settings\Settings EDWW\FP.txt
 Settings	SettingsfilePILOTING	\EDWW\Settings\Settings EDWW\PILOTING.txt
 Settings	SettingsfilePLUGINS	\EDWW\Settings\Settings EDWW\PLUGINS.txt
@@ -84,3 +84,4 @@ LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep
 LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar($atisairportD)&nognd&depfreq=
 LastSession	atis_freq4	118000
 RecentFiles	Recent1	\EDWW\ASR\EDWW-CTR-APP.asr
+Settings	sector	\EDWW-EDWW_20230621123840-230601-0007.sct
