@@ -41,7 +41,7 @@ Settings	FreqKey	3604480
 Settings	Settingsfile	\EDWW\Settings\Settings TOWER\GENERAL - West.txt
 Settings	SettingsfileARR	\EDWW\Settings\Settings TOWER\ARR.txt
 Settings	SettingsfileCONFLICT	\EDWW\Settings\Settings TOWER\CONFLICT.txt
-Settings	SettingsfileDEP	\EDWW\Settings\Settings TOWER\DEP.txt
+Settings	SettingsfileDEP	\EDWW\Settings\Settings TOWER\DEP - West.txt
 Settings	SettingsfileFP	\EDWW\Settings\Settings TOWER\FP.txt
 Settings	SettingsfilePILOTING	\EDWW\Settings\Settings TOWER\PILOTING.txt
 Settings	SettingsfilePLUGINS	\EDWW\Settings\Settings TOWER\PLUGINS.txt
