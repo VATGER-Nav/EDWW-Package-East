@@ -78,6 +78,7 @@ Plugins	Plugin7	\EDWW\Plugins\TOPSKY EDWW-West\TopSky.dll
 Plugins	Plugin7Display0	Standard ES radar screen
 Plugins	Plugin8	\EDWW\Plugins\Squawk EDWW-West\Squawks.dll
 Plugins	Plugin8Display0	Standard ES radar screen
+Plugins	Plugin9	\EDWW\Plugins\CDM\CDM.dll
 LastSession	atis_url0	http://uniatis.net/atis.php?arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&apptype=ILS&info=$atiscodeA&metar=$metar($atisairportA)&nognd&depfreq=
 LastSession	atis_url1	http://uniatis.net/atis.php?arr=$arrrwy($atisairportB)&dep=$deprwy($atisairportB)&apptype=ILS&info=$atiscodeB&metar=$metar($atisairportB)&nognd&depfreq=
 LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&apptype=ILS&info=$atiscodeC&metar=$metar($atisairportC)&nognd&depfreq=
