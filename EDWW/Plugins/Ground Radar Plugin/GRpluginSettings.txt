@@ -101,6 +101,7 @@ List_Departure_Items=30
 Airport_Elevation=156
 Airport_Radius=3
 GroundLabel_Filter_NoState=0
+System_GroundMode_AltFilter_AAL=500
 
 [EDDC]
 Airport_Elevation=754
