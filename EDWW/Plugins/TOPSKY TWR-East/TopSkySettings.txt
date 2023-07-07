@@ -13,7 +13,6 @@ MTCD_Sep_Vert_U=1900
 MTCD_Sep_Vert_L=900
 MTCD_Sep_Lat=8
 MTCD_PLC_Time=10
-MTCD_CARD_Sep=5
 MTCD_Distance_Arr=30
 MTCD_Distance_Dep=30
 MTCD_Distance_Holding=20
@@ -94,63 +93,6 @@ Color_SEP_Tool_5=255,150,0
 Color_SEP_Tool_6=255,150,0
 Color_SEP_Tool_7=255,150,0
 
-Label_Co_SQ=0
-Label_Co_ATYP=0
-Label_Co_ATYPW=0
-Label_Co_ADES=0
-Label_Co_NRAC=0
-Label_Co_TSSR=0
-Label_Co_RFL=0
-Label_Co_FCOPX=0
-Label_Co_WTC=0
-Label_Co_GS=0
-Label_Co_COPN=0
-Label_Co_XFL=0
-Label_Co_ASP=0
-Label_Co_PEL=1
-Label_Co_AHDG=0
-
-Label_Ass_SQ=0
-Label_Ass_ATYP=0
-Label_Ass_ATYPW=0
-Label_Ass_ADES=1
-Label_Ass_NRAC=0
-Label_Ass_TSSR=0
-Label_Ass_RFL=0
-Label_Ass_FCOPX=0
-Label_Ass_WTC=0
-Label_Ass_GS=0
-Label_Ass_COPX=0
-Label_Ass_XFL=0
-Label_Ass_ASP=1
-Label_Ass_AHDG=0
-
-Label_Red_SQ=0
-Label_Red_ATYP=0
-Label_Red_ATYPW=0
-Label_Red_ADES=0
-Label_Red_NRAC=0
-Label_Red_TSSR=0
-Label_Red_RFL=0
-Label_Red_FCOPX=0
-Label_Red_WTC=0
-Label_Red_GS=0
-Label_Red_COPX=0
-Label_Red_XFL=0
-Label_Red_ASP=0
-Label_Red_AHDG=0
-
-Label_No_SQ=0
-Label_No_ATYP=0
-Label_No_ATYPW=0
-Label_No_ADES=0
-Label_No_NRAC=0
-Label_No_TSSR=0
-Label_No_RFL=0
-Label_No_FCOPX=0
-Label_No_WTC=0
-Label_No_GS=0
-
 //Label Colors
 Color_Unconcerned=255,255,255
 Color_Informed=255,255,255
@@ -173,10 +115,13 @@ Color_Track_Default=255,128,0
 Color_Unknown=255,128,0
 Color_Urgency=255,128,0
 Color_VFR=0,255,0
-Color_Sid_Star_No_Allocation=255,150,0
+
 Color_Sid_Star_Allocation=0,200,0
 Color_QDM=0,200,0
 Color_Heading_Vector=0,200,0
+
+System_UseSidStarAllocationColor=1
+
 
 //TRACK
 Label_ASSR_AcceptPilotSquawk=1
@@ -187,7 +132,7 @@ System_UseReportedGS=0
 Label_DAPs=1
 Label_Alt_Digits=3
 Label_GS_Digits=2
-Label_All_N=0
+Label_N_Default=0
 Label_ASP_Digits=3
 System_ASP_IasMach=30000
 System_TaxiTime=8
@@ -224,7 +169,6 @@ Color_Warning_FL=255,255,0
 Color_Urgency_FL=255,0,0
 FPCP_4D=1
 FPCP_MinState=0
-FPCP_4D_PathBuffer=4000
 FlightLeg_Label_Time=1
 FlightLeg_Label_DIST=0
 FlightLeg_Label_RFL=1
@@ -271,8 +215,6 @@ Divergence_RAM_ADES_Radius=40
 Divergence_RAM_Wpt_Radius=5
 Divergence_RAM_Wpt_MinTurn=15
 Divergence_RAM_DCT_DelayTime=90
-
-Track_DivergenceSymbol_Size=0
 
 System_TransferConfirmation=0
 
