@@ -310,69 +310,16 @@ WXR_Echo_dBZ_Lo=25
 Window_CARD=1,1525,788
 Window_PredTfc=1,1,48,200,200
 Label_WTC_Default=0000
+Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=7,0x44 ; D
+Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS CTR
 
 [_APP]
 MTCD=0
 Window_PredTfc=1,1,48,200,200
 Label_WTC_Default=1111
-
-[EDWW_A]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-
-[EDWW_B]
 Track_PredictionLine=1
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_D]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-
-[EDWW_E]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-
-[EDWW_H]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-
-[EDWW_M]
-Track_PredictionLine=1
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_K]
-Track_PredictionLine=1
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_F]
-Track_PredictionLine=1
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_S]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-
-[EDWW_R]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-
-[EDWW_W]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
 
 [EDDB_]
-Track_PredictionLine=1
 Shortcut_Map_Xfr_Key=7,0x44 ; D
 Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EDDB
-
-[EDDH_]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EDDH
-
-[EDDV_]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EDDV
