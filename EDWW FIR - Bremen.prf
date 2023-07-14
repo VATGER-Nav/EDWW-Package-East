@@ -1,19 +1,15 @@
 ASRFastKeys	1	\EDWW\ASR\EDWW-CTR-APP.asr
 ASRFastKeys	2	\EDWW\ASR\EDDB-GND.asr
-ASRFastKeys	3	\EDWW\ASR\EDDH-GND.asr
-ASRFastKeys	4	\EDWW\ASR\EDDV-GND.asr
-ASRFastKeys	5	\EDWW\ASR\EDDW-GND.asr
-ASRFastKeys	6	\EDWW\ASR\EDAH-GND.asr
-ASRFastKeys	7	\EDWW\ASR\EDXW-GND.asr
-ASRFastKeys	8	\EDWW\ASR\EDVK-GND.asr
-ASRFastKeys	9	\EDWW\ASR\ETNL-GND.asr
+ASRFastKeys	3	\EDWW\ASR\EDAH-GND.asr
+ASRFastKeys	4	\EDWW\ASR\ETNL-GND.asr
+ASRFastKeys	5	\EDWW\ASR\ETSH-GND.asr
 Plugins	Plugin0	\EDWW\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1	\EDWW\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin2	\EDWW\Plugins\TOPSKY EDWW-East\TopSky.dll
+Plugins	Plugin2	\EDWW\Plugins\TOPSKY EDWW\TopSky.dll
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3	\EDWW\Plugins\VFPC.dll
@@ -25,7 +21,7 @@ Plugins	Plugin4Display1	Ground Radar display
 Plugins	Plugin5	\EDWW\Plugins\RG Bremen.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
-Plugins	Plugin6	\EDWW\Plugins\Squawk EDWW-East\Squawks.dll
+Plugins	Plugin6	\EDWW\Plugins\Squawk EDWW\Squawks.dll
 Plugins	Plugin6Display0	Ground Radar display
 Plugins	Plugin6Display1	Standard ES radar screen
 Plugins	Plugin2Display2	Ground Radar display
@@ -52,7 +48,7 @@ Settings	SettingsfileSCREEN	\EDWW\Settings\Settings EDWW\SCREEN.txt
 Settings	SettingsfileSEL	\EDWW\Settings\Settings EDWW\SEL.txt
 Settings	SettingsfileSIL	\EDWW\Settings\Settings EDWW\SIL.txt
 Settings	SettingsfileSYMBOLOGY	\EDWW\Settings\Settings EDWW\SYMBOLOGY - East.txt
-Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS - East.txt
+Settings	SettingsfileTAGS	\EDWW\Settings\Settings EDWW\TAGS.txt
 Settings	SettingsfileVCCS	\EDWW\Settings\Settings EDWW\VCCS.txt
 Settings	SettingsfileVOICE	\EDWW\Settings\Settings EDWW\VOICE.txt
 Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
@@ -90,4 +86,3 @@ LastSession	atis_url1	http://uniatis.net/atis.php?arr=$arrrwy($atisairportB)&dep
 LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&apptype=ILS&info=$atiscodeC&metar=$metar($atisairportC)&nognd&depfreq=
 LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar($atisairportD)&nognd&depfreq=
 LastSession	atis_freq4	118000
-Settings	sector	\EDWW-EDWW_20230621123840-230601-0007.sct
