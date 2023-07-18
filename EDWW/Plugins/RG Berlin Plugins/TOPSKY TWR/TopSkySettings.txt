@@ -43,7 +43,7 @@ Vector_AHDG_RhumbLine=1
 
 MSAW=0
 
-SAP=1
+SAP=0
 SAP_AHDG=1
 SAP_RAM	=1
 SAP_Risks=0
@@ -160,6 +160,7 @@ Areas_Label_Levels=0
 Areas_Label_Times=0
 Areas_Label_FontSize=12
 Window_ASM_Chars_Name=15
+APW=0
 
 //Toggle Route
 FlightLeg_LineWidth=1
