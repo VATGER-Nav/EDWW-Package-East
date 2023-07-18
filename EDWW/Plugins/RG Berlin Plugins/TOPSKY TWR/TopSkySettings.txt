@@ -4,7 +4,9 @@ RwyAppLines_Auto=0
 //SYSTEMS
 AIW=0
 
-MTCD=1
+STCA=0
+
+MTCD=0
 MTCD_AHDG=1
 MTCD_RAM=1
 MTCD_Risks_Label=0
