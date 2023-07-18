@@ -31,7 +31,7 @@
         "myLayout": [
             { "source": "assignedRunway", "width": 4 },
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "Â¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "remainingDistance", "width": 4, "rightAligned": true },
