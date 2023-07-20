@@ -55,11 +55,11 @@ Settings	SettingsfileTAXIOUT	\EDWW\Settings\RG Berlin Settings\Settings TOWER\GE
 Settings	SettingsfileTAKEOFF	\EDWW\Settings\RG Berlin Settings\Settings TOWER\GENERAL.txt
 Settings	SettingsfileADCS	\EDWW\Settings\RG Berlin Settings\Settings TOWER\GENERAL.txt
 Settings	SettingsfileTAXIIN	\EDWW\Settings\RG Berlin Settings\Settings TOWER\GENERAL.txt
-Settings aircraft \EDWW\ICAO\ICAO_Aircraft.txt
-Settings airlines \EDWW\ICAO\ICAO_Airlines.txt
-Settings airportcoords \EDWW\NavData\icao.txt
-Settings airports \EDWW\ICAO\ICAO_Airports.txt
-Settings airways \EDWW\NavData\airway.txt
+Settings	aircraft	\EDWW\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EDWW\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\EDWW\NavData\icao.txt
+Settings	airports	\EDWW\ICAO\ICAO_Airports.txt
+Settings	airways	\EDWW\NavData\airway.txt
 Settings	alias	\EDWW\Alias\alias.txt
 Sounds	Sound0	\EDWW\Sounds\RG Berlin Sounds\handoff_request.wav
 Sounds	Sound1	\EDWW\Sounds\RG Berlin Sounds\handoff_accept.wav
@@ -90,3 +90,5 @@ LastSession	atis_url1	http://uniatis.net/atis.php?arr=$arrrwy($atisairportB)&dep
 LastSession	atis_url2	http://uniatis.net/atis.php?arr=$arrrwy($atisairportC)&dep=$deprwy($atisairportC)&apptype=ILS&info=$atiscodeC&metar=$metar($atisairportC)&nognd&depfreq=
 LastSession	atis_url3	http://uniatis.net/atis.php?arr=$arrrwy($atisairportD)&dep=$deprwy($atisairportD)&apptype=ILS&info=$atiscodeD&metar=$metar($atisairportD)&nognd&depfreq=
 LastSession	atis_freq4	118000
+
+Settings	sector	\EDWW-EDWW_20230719062845-230701-0004.sct
