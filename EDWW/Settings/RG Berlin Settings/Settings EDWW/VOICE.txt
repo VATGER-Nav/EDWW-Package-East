@@ -35,10 +35,6 @@ AG:EDDE_ATIS:133.455
 AG:EDDE_A_GND Erfurt Apron:121.905
 AG:EDDE_GND Erfurt Ground:121.755
 AG:EDDE_TWR Erfurt Tower:121.155
-AG:EDDF_N_APP Langen Radar:120.800
-AG:EDDG_GND Muenster Ground:121.875
-AG:EDDG_HMM_APP Langen Radar:129.300
-AG:EDDG_TWR Muenster Tower:129.800
 AG:EDDH_ATIS:124.325
 AG:EDDH_DEL Hamburg Ground:121.805
 AG:EDDH_E_APP Bremen Radar:119.510
@@ -51,12 +47,6 @@ AG:EDDH_W_GND Hamburg Apron:121.980
 AG:EDDI_ATIS:126.025
 AG:EDDI_GND Tempelhof Ground:121.950
 AG:EDDI_TWR Tempelhof Tower:119.575
-AG:EDDK_APP Langen Radar:135.350
-AG:EDDL_APP Langen Radar:128.550
-AG:EDDL_BOT_APP Langen Radar:119.100
-AG:EDDL_D_APP Langen Radar:121.350
-AG:EDDL_F_APP Duesseldorf Director:128.650
-AG:EDDL_TWR Duesseldorf Tower:118.300
 AG:EDDN_APP Muenchen Radar:129.525
 AG:EDDN_ATIS:123.080
 AG:EDDN_F_APP Nuernberg Director:119.475
@@ -87,22 +77,6 @@ AG:EDDW_DEL Bremen Delivery:134.830
 AG:EDDW_F_APP Bremen Director:120.350
 AG:EDDW_GND Bremen Ground:121.755
 AG:EDDW_TWR Bremen Tower:120.330
-AG:EDFH_EIF_APP Langen Radar:125.600
-AG:EDGG_BAD_CTR Langen Radar:131.300
-AG:EDGG_CO_CTR Langen Radar:130.975
-AG:EDGG_CTR Langen Radar:135.725
-AG:EDGG_GED_CTR Langen Radar:124.425
-AG:EDGG_GIN_CTR Langen Radar:124.725
-AG:EDGG_HEF_CTR Langen Radar:127.725
-AG:EDGG_HMM_CTR Langen Radar:118.750
-AG:EDGG_KIR_CTR Langen Radar:128.525
-AG:EDGG_KNG_CTR Langen Radar:125.675
-AG:EDGG_KTG_CTR Langen Radar:123.275
-AG:EDGG_LBU_CTR Langen Radar:127.050
-AG:EDGG_PAH_CTR Langen Radar:135.650
-AG:EDGG_PSA_CTR Langen Radar:125.400
-AG:EDGG_RUD_CTR Langen Radar:124.475
-AG:EDGG_TAU_CTR Langen Radar:127.625
 AG:EDHE_I_TWR Uetersen Info:122.705
 AG:EDHG_I_TWR Lüneburg Info:122.180
 AG:EDHI_ATIS:135.965
@@ -111,8 +85,6 @@ AG:EDHK_I_TWR Kiel Info:119.980
 AG:EDHL_ATIS:119.930
 AG:EDHL_GND Luebeck Ground:121.780
 AG:EDHL_TWR Luebeck Tower:128.705
-AG:EDLP_PAL_APP Langen Radar:125.225
-AG:EDLP_TWR Paderborn Tower:133.375
 AG:EDMM_CTR Muenchen Radar:124.050
 AG:EDMM_G_CTR Muenchen Radar:133.230
 AG:EDMM_H_CTR Muenchen Radar:118.235
@@ -120,18 +92,9 @@ AG:EDMM_M_CTR Muenchen Radar:124.960
 AG:EDMM_O_CTR Muenchen Radar:133.565
 AG:EDOI_I_TWR Bienenfarm Info:134.990
 AG:EDUU_A_CTR Rhein Radar:133.860
-AG:EDUU_D_CTR Rhein Radar:132.730
-AG:EDUU_FFM_CTR Rhein Radar:132.325
-AG:EDUU_FUL_CTR Rhein Radar:136.325
 AG:EDUU_H_CTR Rhein Radar:128.235
-AG:EDUU_L_CTR Rhein Radar:127.300
-AG:EDUU_NTM_CTR Rhein Radar:136.475
 AG:EDUU_OH_CTR Rhein Radar:126.785
 AG:EDUU_O_CTR Rhein Radar:133.035
-AG:EDUU_R_CTR Rhein Radar:136.400
-AG:EDUU_SLN_CTR Rhein Radar:120.925
-AG:EDUU_TGO_CTR Rhein Radar:132.400
-AG:EDUU_WUR_CTR Rhein Radar:134.075
 AG:EDVC_I_TWR Arloh Info:123.655
 AG:EDVE_ATIS:134.455
 AG:EDVE_TWR Braunschweig Tower:120.055
@@ -195,33 +158,6 @@ AG:EDYY_O_CTR Maastricht Radar:132.850
 AG:EDYY_RHR_CTR Maastricht Radar:124.435
 AG:EDYY_SH_CTR Maastricht Radar:131.380
 AG:EDYY_S_CTR Maastricht Radar:134.710
-AG:EHAA_E_CTR Amsterdam Radar:124.880
-AG:EHAA_S_CTR Amsterdam Radar:123.850
-AG:EHAA_W_CTR Amsterdam Radar:125.750
-AG:EHAM_E_APP Schiphol Approach:119.055
-AG:EHAM_W_APP Schiphol Approach:121.205
-AG:EHGG_APP Eelde Approach:120.305
-AG:EHMC_CTR Dutch Mil:128.355
-AG:EKAH_APP Aarhus Approach:119.275
-AG:EKAH_TWR Aarhus Tower:118.525
-AG:EKBI_APP Billund Approach:127.575
-AG:EKBI_F_APP Billund Arrival:119.250
-AG:EKCH_E_APP Copenhagen Approach:118.450
-AG:EKCH_E_DEP Kastrup Departure:124.975
-AG:EKCH_W_APP Copenhagen Approach:119.800
-AG:EKDK_B_CTR Copenhagen Control:121.375
-AG:EKDK_C_CTR Copenhagen Control:128.225
-AG:EKDK_D_CTR Copenhagen Control:133.150
-AG:EKDK_I_CTR Copenhagen Information:127.075
-AG:EKDK_N_CTR Copenhagen Control:134.675
-AG:EKDK_S_CTR Copenhagen Control:136.550
-AG:EKDK_V_CTR Copenhagen Control:126.050
-AG:EKKA_APP Karup Approach:120.425
-AG:EKRK_APP Roskilde Approach:125.525
-AG:EKSP_APP Skrydstrup Approach:124.100
-AG:EKSP_TWR Skrydstrup Approach:128.325
-AG:EKYT_APP Aalborg Approach:123.975
-AG:EKYT_F_APP Aalborg Arrival:120.700
 AG:ETHC_TWR Celle Tower:118.255
 AG:ETHS_TWR Fassberg Tower:118.525
 AG:ETMN_APP Nordholz Radar:129.855
