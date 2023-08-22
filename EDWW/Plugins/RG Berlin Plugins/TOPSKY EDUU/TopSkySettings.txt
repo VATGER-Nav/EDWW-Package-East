@@ -1,31 +1,15 @@
-System_UseAUP=1
-HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/ED/
-
-
 Setup_COOPANS=1
-RwyAppLines_Auto=0
 
 Airspace_ASSR_Type=2
-Airspace_ASSR_AutoAssign_Type=0
-Airspace_C_Flag=EDDC,EDDV
-Airspace_ModeS_Code_VFR=7000
-Airspace_No_DUPE_Codes=0020,0023,0024,0025,0027,0030,0031,0033,0034,0035,0036,0037,1000,4450,4451,4452,4453,4454,7000,7737,7740,7741,7742,7743,7744,7745
-Airspace_SIGMET_Areas=EDWW,EDUU,EDYY
-Airspace_NOTAM_Remove=EDAB,EDAC,EDBC,EDDH,EDDV,EDDW,EDHI,EDHL,EDLP,EDVE,EDVK,EKCH,EDDP,EDDE,EDDC,EDDG,EDDN,EDHK,EDHS,EDOP,EDQM,EDVM,EDVU,EDWC,EDWE,EDWG,EDWF,EDWH,EDWI,EDWJ,EDWL,EDWK,EDWM,EDWN,EDWO,EDWR,EDWS,EDWT,EDWU,EDWV,EDWX,EDWY,EDWZ,EDXA,EDXB,EDXC,EDXD,EDXF,EDXG,EDXH,EDXI,EDXJ,EDXL,EDXK,EDXM,EDXNEDXP,EDXQ,EDXR,EDXS,EDXT,EDXU,EDXW,EDXY,EDXZ,ETHB,ETHC,ETHS,ETMN,ETND,ETNH,ETNS,ETNT,ETNW,EDWP,EDXN
+Airspace_NOTAM_Add=EDMM,EDUU
+Airspace_NOTAM_Remove=EPBA,EPBC,EPBK,EPBO,EPBY,EPCE,EPDA,EPDE,EPEL,EPGD,EPGI,EPGL,EPGO,EPGY,EPIN,EPIR,EPIW,EPJG,EPKA,EPKE,EPKG,EPKK,EPKM,EPKO,EPKP,EPKR,EPKS,EPKT,EPKW,EPLB,EPLK,EPLL,EPLR,EPLS,EPLU,EPLY,EPMB,EPMI,EPML,EPMM,EPMO,EPMR,EPNL,EPNT,EPOD,EPOK,EPOM,EPOP,EPPB,EPPK,EPPL,EPPO,EPPR,EPPT,EPPW,EPPZ,EPRA,EPRG,EPRJ,EPRP,EPRZ,EPSC,EPSD,EPSN,EPST,EPSU,EPSY,EPTM,EPTO,EPWA,EPWK,EPWR,EPWS,EPWT,EPZA,EPZG,EPZP,EPZR,LIAF,LIAP,LIAQ,LIAU,LIBA,LIBC,LIBD,LIBF,LIBG,LIBN,LIBP,LIBR,LIBV,LICA,LICB,LICC,LICD,LICG,LICJ,LICP,LICR,LICT,LICZ,LIDA,LIDB,LIDE,LIDF,LIDG,LIDH,LIDL,LIDP,LIDR,LIDT,LIDU,LIDV,LIDW,LIEA,LIED,LIEE,LIEO,LIER,LILA,LILB,LILC,LILE,LILG,LILH,LILI,LILM,LILN,LILO,LILQ,LILR,LILV,LIMA,LIMB,LIMC,LIME,LIMF,LIMG,LIMJ,LIML,LIMN,LIMP,LIMR,LIMS,LIMW,LIMZ,LINL,LIPA,LIPB,LIPC,LIPD,LIPE,LIPF,LIPG,LIPH,LIPI,LIPK,LIPL,LIPM,LIPN,LIPO,LIPQ,LIPR,LIPS,LIPU,LIPV,LIPX,LIPY,LIPZ,LIQB,LIQL,LIQN,LIQS,LIQW,LIRA,LIRE,LIRF,LIRG,LIRH,LIRI,LIRJ,LIRL,LIRM,LIRN,LIRP,LIRQ,LIRS,LIRU,LIRV,LIRZ,LKBA,LKBE,LKBO,LKBR,LKBU,LKCB,LKCE,LKCH,LKCM,LKCR,LKCS,LKCT,LKCV,LKDK,LKER,LKFR,LKHB,LKHC,LKHD,LKHK,LKHN,LKHS,LKHV,LKJA,LKJC,LKJH,LKJI,LKKA,LKKB,LKKL,LKKM,LKKO,LKKR,LKKT,LKKU,LKKV,LKKY,LKLB,LKLN,LKLT,LKMB,LKMH,LKMI,LKMK,LKMO,LKMR,LKMT,LKNA,LKNM,LKOL,LKPA,LKPC,LKPD,LKPI,LKPJ,LKPL,LKPM,LKPN,LKPO,LKPR,LKPS,LKRA,LKRK,LKRO,LKRY,LKSA,LKSB,LKSK,LKSN,LKSO,LKSR,LKST,LKSU,LKSZ,LKTA,LKTB,LKTC,LKTD,LKTO,LKUL,LKUO,LKVL,LKVM,LKVO,LKVP,LKVR,LKVY,LKZA,LKZB,LKZD,LKZM,LKZN,LOAA,LOAB,LOAD,LOAG,LOAN,LOAR,LOAS,LOAU,LOAV,LOGF,LOGG,LOGI,LOGK,LOGL,LOGM,LOGO,LOGP,LOGT,LOGW,LOIH,LOIJ,LOIK,LOIR,LOKF,LOKG,LOKH,LOKL,LOKM,LOKN,LOKR,LOKW,LOLC,LOLD,LOLE,LOLF,LOLG,LOLH,LOLK,LOLM,LOLO,LOLS,LOLT,LOLU,LOLW,LOSM,LOWG,LOWI,LOWK,LOWL,LOWS,LOWW,LOWZ,LOXA,LOXE,LOXN,LOXT,LOXZ,LSGB,LSGC,LSGE,LSGG,LSGK,LSGN,LSGS,LSMA,LSMD,LSME,LSMF,LSML,LSMM,LSMP,LSPA,LSPG,LSPM,LSPU,LSTA,LSTS,LSTZ,LSZA,LSZB,LSZC,LSZF,LSZG,LSZH,LSZL,LSZR,LSZS
+Airspace_SIGMET_Areas=EDMM,EDUU,EDGG,EDWW,EDYY,LKAA,LOVV,LSAS
+Airspace_No_DUPE_Codes=1000,7000,0020,0023,0036,4450,4451,4452,4453,4454,7740,7741,7742,7743,7744
 
-AIW=0
+AIW_Floor=9500
 
 APW_VFR=1
 APW_Buffer_Lat_SepLevel=24500
-APW_Buffer_Lat_U=2.5
-APW_Buffer_Lat_L_IFR=2.5
-APW_Buffer_Lat_L_VFR=2.5
-APW_Buffer_Vert_U=1799
-APW_Buffer_Vert_L_IFR=799
-APW_Buffer_Vert_L_IFR=799
-
-Areas_NOTAM_Activation=1
-Areas_Altitude_Filtering=1
 
 //EDUU COLORS
 Color_Active_Map=15,120,200
@@ -146,78 +130,7 @@ CPDLC_FSM_RCD_Header=FSM <hour><min> <year2><month2><day> <adep2> <callsign>
 
 Divergence_CLAM_DelayTime=120
 Divergence_CLAM_MinCFL=7000
-Divergence_RAM_Limit=3
-Divergence_RAM_DCT_DelayTime=120
-
-Equip_UseCodes=0
-
-FPCP_Inhibit_VFR=1
-
-FlightLeg_Font=EuroScope
-FlightLeg_FontSize=10
-FlightLeg_Label_Time=1
-FlightLeg_Label_DIST=1
-FlightLeg_Label_RFL=1
-//TEST
-FlightLeg_Label_SCFL=1
-FlightLeg_LineWidth=1
-
-HTTP_NOTAM_Server=https://www.notams.faa.gov/
-HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
-HTTP_SIGMET_Server=http://aviationweather.gov/
-HTTP_SIGMET_Page_Prefix=data/iffdp/
-HTTP_SIGMET_Pages=6443
-HTTP_SIGMET_Page_Suffix=.txt
-
-Label_Alt_Digits=2
-Label_ASP_Digits=3
-Label_CFL_DefaultValue=0
-Label_DAPs=1
-Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,disabled,disability,impaired
-Label_GS_Digits=2
-Label_N_Default=0
-Label_SI_ShowFreq=1
-Label_SI_FreqTime=3
-Label_WTC_Highlight_ATYP=DC10,MD11,B744,B748,B742,B743,B741,B772,B773,A388,A339,A333,A332,A310,A306
-Label_WTC_Highlight_WTC=H
-
-Label_SQ_Default=0000
-Label_ATYP_Default=0000
-Label_ADES_Default=0100
-Label_NRAC_Default=0000
-Label_TSSR_Default=0000
-Label_RFL_Default=0000
-Label_FCOPX_Default=0000
-Label_GS_Default=0000
-Label_COPN_Default=0000
-Label_COPX_Default=0000
-Label_XFL_Default=0000
-Label_ASP_Default=0100
-Label_PEL_Default=0000
-Label_AHDG_Default=0000
-Label_NPT_Default=0000
-Label_OFL_Default=0000
-Label_AMA_Default=0000
-Label_TOG_Default=0000
-
-List_OptionsInGlobalMenu=0
-List_VFR_FPL_Filter=1
-List_VFR_FPL_Area=54.911,6.344,53.616,6.344,,53.221,6.964,53.015,7.040,52.528,6.933,52.133,6.948,52.051,8.326,51.862,8.594,51.417,8.556,51.174,8.556,51.040,8.908,51.013,10.309,51.160,10.676,51.628,11.196,51.720,12.230,51.449,12.689,,51.555,14.587,52.234,14.848,53.272,14.618,54.971,14.450,54.975,12.505,54.479,11.403,54.824,10.377,55.021,9.046,55.154,8.173,55.113,6.481
-
-
-Maps_Font=EuroScope
-
-Menu_Rate_List=05,10,15,20,25,30,35,40,45,50
-
-MTCD_DeAcknowledge=5
-MTCD_Filter_Dep=3
-MTCD_Sep_Lat=6
-
-RDF_Mode=0
-
-RwyAppLines_Markers=15
-RwyAppLines_MarkerSpacing=1.0
-RwyAppLines_Auto=0
+Divergence_RAM_DCT_DelayTime=90
 
 Shortcut_RadarMenu_Combo=0x00
 Shortcut_RadarMenu=0x00
@@ -235,21 +148,31 @@ Shortcut_Quick_Look_Combo=0x00
 Shortcut_Quick_Look=0x00
 
 Shortcut_Map_Xfr_Combo=1,0x12
-Shortcut_Map_Xfr_Key=1,0x4D ; M
-Shortcut_Map_Xfr_Key=2,0x56 ; V
-Shortcut_Map_Xfr_Key=3,0x41 ; A
-Shortcut_Map_Xfr_Key=4,0x46 ; F
-Shortcut_Map_Xfr_Key=5,0x4B ; K
-Shortcut_Map_Xfr_Key=6,0x4E ; N
-//Shortcut_Map_Target=1,AIRSPACE INFO\MRVA COLD (NOV-MAR)
-Shortcut_Map_Target=1,AIRSPACE INFO\MRVA WARM (MAR-NOV)
-Shortcut_Map_Target=2,VFR\VFR FIXES
-Shortcut_Map_Target=3,AIRSPACE INFO\AIRSPACE LEVELS
-Shortcut_Map_Target=4,AIRSPACE INFO\FIS REGION
-Shortcut_Map_Target=5,VFR\COAST
-Shortcut_Map_Target=6,AUTO MAPS\LOA FIXES
+Shortcut_Map_Xfr_Key=1,0x44 ; D
+Shortcut_Map_Target=1,LOA LEVEL INFO\TACTICAL DIRECTS
 
-STCA_AlertSound=0
+CPDLC_MinLevel=285
+CPDLC_Transfer=1
+CPDLC_CFL=1
+CPDLC_DCT=1
+CPDLC_AHDG=1
+CPDLC_ASP=1
+
+Window_CPDLC_Current=1,1350,48
+Window_CPDLC_Setting=1,1,248
+
+HTTP_SIGMET_Pages=6443
+
+FlightLeg_Font=Arial
+FlightLeg_FontSize=10
+
+AIW_FlightRules=2
+
+Maps_Font=Arial
+
+MTCD_Filter_Dep=3
+
+STCA_AlertSound=1
 STCA_Sep_Lat_SepLevel=24500
 STCA_Floor=2000
 STCA_LinPred_Sep_Lat_U=4,9
@@ -260,79 +183,92 @@ STCA_CurrProx_Sep_Lat_U=4,9
 STCA_CurrProx_Sep_Lat_L=2,9
 STCA_CurrProx_Sep_Vert_U=1775
 STCA_CurrProx_Sep_Vert_L=775
-STCA_VFR=0
 STCA_WarningTime_U=80
 STCA_WarningTime_L=60
 STCA_WarningTime_U_Imm=50
 STCA_WarningTime_L_Imm=50
 
-System_ASP_IasMach=30000
-System_GUI_Scale_Cursors=1.0
-System_GUI_Scale_GlobalMenu=1.1
-System_GUI_Scale_Menus=1.1
-System_GUI_Scale_Screen=1.1
-System_GUI_Scale_Windows=1.1
-System_GUI_Font_1=EuroScope
-System_GUI_Font_2=EuroScope
-System_GUI_Font_Fixed_1=EuroScope
-System_FIC_Position=1
-System_ProxySounds=0
-System_TransferConfirmation=0
+System_GUI_Font_1=Arial
+System_GUI_Font_2=Arial
 System_TrueColorMode=1
-System_UseReportedGS=0
+System_QNHTL_ForceMetarSourceVATSIM=1
 System_UseAcceptedCoordColor=1
+System_TransferConfirmation=1
+System_TaxiTime=10
+System_ProxySounds=0
 System_UseTSAborderHighlightColor=1
 
-Track_HistoryDots=5
-Track_PredictionLine=0
+RDF_Accuracy=0
+RDF_Floor=-999
+
+Track_PredictionLine=1
 Track_PredictionLine_Max=15
 
-Vector_AHDG_FontSize=12
+RwyAppLines_Markers=15
+RwyAppLines_MarkerSpacing=1.0
+RwyAppLines_Auto=0
+
+Vector_AHDG_FontSize=10
 Vector_AHDG_Label_Dir=1
 Vector_AHDG_Label_Dist=1
-Vector_AHDG_Label_Time=1
-Vector_MinSep_FontSize=12
+Vector_MinSep_FontSize=10
 Vector_MinSep_Label_Time=1
 Vector_QDM_MaxNumber=99
 
-Window_ASM=1,500,500
 Window_ASM_Chars_Name=9
 Window_ASM_Chars_MapText=25
-Window_CARD_View_Risk=0
-Window_CARD_View_PotPred=0
-Window_CPDLC_Current=1,1350,48
-Window_CPDLC_Setting=1,1,248
 Window_SM_LeaveHoldTime=2
-Window_SepList=100,200
-Window_MsgIn=1,980,48
 
-WXR_Latitude=53.5
-WXR_Latitude_Max=56
-WXR_Latitude_Min=50
-WXR_Longitude=9.8
+Label_SI_ShowFreq=1
+Label_N_Default=0
+Label_ASP_Digits=3
+Label_Field18_Flag_Items=/STS,newbie,noob,n00b,beginner,anfaenger,disabled,disability,impaired,newbe,newbee,fs2020
+Label_GS_Digits=2
+Label_ASSR_AcceptPilotSquawk=1
+Label_CFL_DefaultValue=0
+Label_SI_FreqTime=3
+Label_DAPs=1
+Label_Alt_Digits=2
+
+Label_SQ_Default=0000
+Label_ATYP_Default=0000
+Label_ADES_Default=0000
+Label_NRAC_Default=0000
+Label_TSSR_Default=0000
+Label_RFL_Default=0000
+Label_FCOPX_Default=0000
+Label_GS_Default=1111
+Label_COPN_Default=0000
+Label_COPX_Default=0000
+Label_XFL_Default=1100
+Label_ASP_Default=1111
+Label_PEL_Default=1000
+Label_AHDG_Default=0000
+Label_NPT_Default=0000
+Label_OFL_Default=0000
+Label_AMA_Default=0000
+Label_TOG_Default=0000
+
+WXR_Latitude=49,5
+WXR_Latitude_Max=57
+WXR_Latitude_Min=46
+WXR_Longitude=11,2
 WXR_Longitude_Max=18
-WXR_Longitude_Min=5
-WXR_Brightness=7
-WXR_Gain=120
-WXR_Zoom=5
+WXR_Longitude_Min=7
+WXR_ImageSize=512
+WXR_Brightness=40
 WXR_Echo_dBZ_Hi=50
 WXR_Echo_dBZ_Med=30
 WXR_Echo_dBZ_Lo=25
 
+[EDUU]
+System_TransferConfirmation=0
+
 [_CTR]
-Window_CARD=1,1525,788
-Window_PredTfc=1,1,48,200,200
-Label_WTC_Default=0000
-Track_PredictionLine=1
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS CTR
+FlightLeg_Label_RFL=1
+FlightLeg_Label_SCFL=1
+FlightLeg_Label_Time=1
+FlightLeg_Label_DIST=1
 
-[_APP]
-MTCD=0
-Window_PredTfc=1,1,48,200,200
-Label_WTC_Default=1111
-Track_PredictionLine=1
-
-[EDDB_]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EDDB
+[_OBS]
+Color_Unconcerned=150,150,150
