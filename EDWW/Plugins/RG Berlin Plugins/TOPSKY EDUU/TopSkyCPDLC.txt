@@ -1,6 +1,6 @@
 [DCL]
 // ****************** REQ STARTUP ON OWN FREQ ****************** 
-DCL:EDDB,EDDP:SID:CLRD TO <ades> OFF <drwy> VIA <sid> CLIMB <cfl> SQUAWK <assr> ATIS <rmk> REPORT READY ON <freq_own>
+DCL:EDDB,EDDP:SID:LRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> ADT <aobtMDI> NEXT FREQ <freq_own> REQ STARTUP ACC EOBT OR CTOT ON <freq_own> <rmk>
 
 
 [FREETEXT]
