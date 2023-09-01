@@ -15,8 +15,8 @@ ATIS3:Airport Briefing vats.im/eddb
 ATIS4:Submit your feedback at feedback.vatger.de
 PROFILE:EDDB_DEL:10:2
 ATIS2:Callsign BERLIN DELIVERY - PDC/DCL Logon EDDB
-ATIS3:Airport Briefing vats.im/eddb
-ATIS4:Submit your feedback at feedback.vatger.de
+ATIS3:ACDM slot management in progress - report your TOBT at vats.im/TSAT
+ATIS4:Further information on ACDM: vats.im/ACDM
 PROFILE:EDDB_A_GND:20:3
 ATIS2:Callsign BERLIN APRON - PDC/DCL Logon EDDB
 ATIS3:Airport Briefing vats.im/eddb
