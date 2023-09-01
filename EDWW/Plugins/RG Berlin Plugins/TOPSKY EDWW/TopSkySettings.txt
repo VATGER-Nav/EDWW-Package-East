@@ -234,7 +234,7 @@ Shortcut_Map_Target=2,VFR\VFR FIXES
 Shortcut_Map_Target=3,AIRSPACE INFO\AIRSPACE LEVELS
 Shortcut_Map_Target=4,AIRSPACE INFO\FIS REGION
 Shortcut_Map_Target=5,VFR\COAST
-Shortcut_Map_Target=6,AUTO MAPS\LOA FIXES
+Shortcut_Map_Target=6,AUTO MAPS\ENROUTE FIXES
 
 STCA_AlertSound=0
 STCA_Sep_Lat_SepLevel=24500
