@@ -120,7 +120,7 @@ Color_WM_Bg=0,180,180
 Color_WM_Border=0,180,180
 Color_WM_Fg=0,0,0
 
-CPDLC_MinLevel=245
+CPDLC_MinLevel=285
 CPDLC_Transfer=1
 CPDLC_CFL=1
 CPDLC_DCT=1
