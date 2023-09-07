@@ -57,6 +57,10 @@ ATIS3:Submit your feedback at feedback.vatger.de
 ATIS4:
 
 ///AFIS///
+PROFILE:EDAV_I_TWR:50:4
+ATIS2:FINOW INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
 PROFILE:EDAY_I_TWR:50:4
 ATIS2:STRAUSBERG INFORMATION
 ATIS3:Submit your feedback at feedback.vatger.de
@@ -69,12 +73,36 @@ PROFILE:EDBH_I_TWR:50:4
 ATIS2:BARTH INFO
 ATIS3:Submit your feedback at feedback.vatger.de
 ATIS4:
+PROFILE:EDBK_I_TWR:50:4
+ATIS2:KYRITZ INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
 PROFILE:EDBM_I_TWR:50:4
 ATIS2:MAGDEBURG INFO
 ATIS3:Submit your feedback at feedback.vatger.de
 ATIS4:
 PROFILE:EDBN_I_TWR:50:4
 ATIS2:NEUBRANDENBURG INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:EDBW_I_TWR:50:4
+ATIS2:WERNEUCHEN INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:EDCA_I_TWR:50:4
+ATIS2:ANKLAM INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:EDCG_I_TWR:50:4
+ATIS2:RUEGEN INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:EDCP_I_TWR:50:4
+ATIS2:PEENEMUENDE INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
+PROFILE:EDOI_I_TWR:50:4
+ATIS2:BIENENFARM INFO
 ATIS3:Submit your feedback at feedback.vatger.de
 ATIS4:
 END
