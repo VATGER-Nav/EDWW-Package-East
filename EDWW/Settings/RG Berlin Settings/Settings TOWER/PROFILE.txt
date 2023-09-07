@@ -101,4 +101,8 @@ PROFILE:EDCP_I_TWR:50:4
 ATIS2:PEENEMUENDE INFO
 ATIS3:Submit your feedback at feedback.vatger.de
 ATIS4:
+PROFILE:EDOI_I_TWR:50:4
+ATIS2:BIENENFARM INFO
+ATIS3:Submit your feedback at feedback.vatger.de
+ATIS4:
 END
