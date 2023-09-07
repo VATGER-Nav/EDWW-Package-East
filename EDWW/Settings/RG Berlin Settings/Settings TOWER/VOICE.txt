@@ -1,5 +1,6 @@
 VOICE
 AG:EDAH_TWR Heringsdorf Tower:132.830
+AG:EDAV_I_TWR Finow Info:119.055
 AG:EDAY_I_TWR Strausberg Info:118.735
 AG:EDAZ_ATIS:118.490
 AG:EDAZ_I_TWR Schönhagen Info:131.155
@@ -8,6 +9,10 @@ AG:EDBH_I_TWR Barth Info:118.080
 AG:EDBK_I_TWR Kyritz Info:122.730
 AG:EDBM_I_TWR Magdeburg Information:119.305
 AG:EDBN_I_TWR Neubrandenburg Info:119.180
+AG:EDBW_I_TWR Werneuchen Info:128.740
+AG:EDCA_I_TWR Anklam Info:122.655
+AG:EDCG_I_TWR Ruegen Info:123.055
+AG:EDCP_I_TWR Peenemuende Info:122.480
 AG:EDDB_ATIS:123.780
 AG:EDDB_A_GND Berlin Apron:121.855
 AG:EDDB_DEL Berlin Delivery:121.605
