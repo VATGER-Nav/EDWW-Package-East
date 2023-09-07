@@ -51,7 +51,11 @@ PROFILE:EDDB_S_DEP:150:5
 ATIS2:Callsign BREMEN RADAR
 ATIS3:Berlin Departure South Sector - Briefing vats.im/eddb
 ATIS4:Submit your feedback at feedback.vatger.de
-PROFILE:EDDB_Q_APP:150:5
+PROFILE:EDDB_Y_APP:150:5
+ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDB
+ATIS3:Coordinator Position - Briefing vats.im/eddb
+ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_Z_APP:150:5
 ATIS2:Callsign BREMEN RADAR - PDC/DCL EDDB
 ATIS3:Coordinator Position - Briefing vats.im/eddb
 ATIS4:Submit your feedback at feedback.vatger.de
