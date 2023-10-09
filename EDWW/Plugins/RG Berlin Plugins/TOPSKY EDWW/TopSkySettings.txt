@@ -45,6 +45,7 @@ Color_Active_Map_Type_18=0,100,255	//Blue
 Color_Active_Map_Type_19=100,50,0	//Orange
 Color_Active_Map_Type_20=0,150,0	//Green
 Color_Active_Text_Map=70,70,70
+Color_Active_Sector=11,65,54
 Color_AIW_Intrusion=255,0,0
 Color_Assumed=216,201,97
 Color_Background=11,65,54
