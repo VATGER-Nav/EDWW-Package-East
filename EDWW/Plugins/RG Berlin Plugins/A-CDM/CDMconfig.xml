@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<CDM>
+	<rate ops="50" />
+	<rateLvo ops="30" />
+	<expiredCtot time="25" />
+	<realMode mode="false" />
+	<Rates url="" />
+	<Taxizones url="" />
+	<Ctot url="" />
+	<DefaultTaxiTime minutes="10" />
+	<RefreshTime seconds="20" />
+	<Debug mode="false" />
+	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<ftpHost host="" />
+	<ftpUser user="" />
+	<ftpPassword password="" />
+	<Su_Wait mode="false" />
+</CDM>
