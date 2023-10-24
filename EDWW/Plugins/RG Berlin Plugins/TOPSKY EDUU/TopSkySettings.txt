@@ -22,7 +22,7 @@ Color_Active_Map_Type_4=139,0,0
 Color_Active_Map_Type_5=139,0,0
 Color_Active_Map_Type_12=15,120,200
 Color_Active_RD_Infill_Map=255,0,0
-Color_Active_Sector=195,195,185
+Color_Active_Sector=168,164,165
 Color_Active_Text_Map=15,120,200
 Color_AIW_Intrusion=250,0,0
 Color_Arm=97,97,97
@@ -35,8 +35,6 @@ Color_CARD_Mark_All=212,128,44
 Color_CARD_Mark_Own=212,128,44
 Color_CARD_Min_Sep=61,61,61
 Color_CARD_Time_Vector=170,231,197
-Color_COL_Above_Threshold=250,170,15
-Color_COL_Under_Threshold=53,127,11
 Color_Concerned=15,120,200
 Color_Coordination=15,120,200
 Color_CPDLC_Controller_Late=212,128,44
@@ -61,7 +59,7 @@ Color_SEP_Tool_5=120,80,150
 Color_Freq_Indicator=250,0,0
 Color_Global_Menu_Highlight=0,255,0
 Color_Heading_Vector=0,102,0
-Color_Inactive_Sector=195,195,185
+Color_Inactive_Sector=67,73,76
 Color_Info_Coord=0,255,0
 Color_Information=34,139,34
 Color_Information_FL=80,80,80
@@ -165,11 +163,9 @@ CPDLC_ASP=1
 Window_CPDLC_Current=1,1350,48
 Window_CPDLC_Setting=1,1,248
 
-HTTP_SIGMET_Pages=6443
 
 FlightLeg_Font=Arial
 FlightLeg_FontSize=10
-FlightLeg_LineWidth=0
 
 AIW_FlightRules=2
 
