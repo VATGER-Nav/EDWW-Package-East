@@ -152,7 +152,7 @@ FlightLeg_Label_DIST=1
 FlightLeg_Label_RFL=1
 //TEST
 FlightLeg_Label_SCFL=1
-FlightLeg_LineWidth=1
+FlightLeg_LineWidth=0
 
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
 HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=

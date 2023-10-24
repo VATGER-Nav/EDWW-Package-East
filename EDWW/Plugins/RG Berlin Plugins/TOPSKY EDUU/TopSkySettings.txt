@@ -169,6 +169,7 @@ HTTP_SIGMET_Pages=6443
 
 FlightLeg_Font=Arial
 FlightLeg_FontSize=10
+FlightLeg_LineWidth=0
 
 AIW_FlightRules=2
 
