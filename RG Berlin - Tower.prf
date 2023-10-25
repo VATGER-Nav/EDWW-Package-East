@@ -3,7 +3,7 @@ ASRFastKeys	2	\EDWW\ASR\RG Berlin ASR\EDDB-GND.asr
 ASRFastKeys	3	\EDWW\ASR\RG Berlin ASR\EDAH-GND.asr
 ASRFastKeys	4	\EDWW\ASR\RG Berlin ASR\ETNL-GND.asr
 ASRFastKeys	4	\EDWW\ASR\RG Berlin ASR\ETSH-GND.asr
-Plugins	Plugin0	\EDWW\Plugins\RG Berlin Plugins\vACDM\vACDM.dll
+Plugins	Plugin0	\EDWW\Plugins\RG Berlin Plugins\A-CDM\CDM.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin1	\EDWW\Plugins\RG Berlin Plugins\AfvEuroScopeBridge.dll
