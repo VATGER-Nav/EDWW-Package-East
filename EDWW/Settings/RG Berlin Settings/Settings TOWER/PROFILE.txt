@@ -25,6 +25,10 @@ PROFILE:EDDB_E_GND:20:3
 ATIS2:Callsign BERLIN APRON - PDC/DCL Logon EDDB
 ATIS3:Airport Briefing vats.im/eddb
 ATIS4:Submit your feedback at feedback.vatger.de
+PROFILE:EDDB_ICE_GND:20:3
+ATIS2:Callsign BERLIN DE-ICING
+ATIS3:Coordinating De-Icing Procedures at EDDB
+ATIS4:Submit your feedback at feedback.vatger.de
 PROFILE:EDDB_N_GND:20:3
 ATIS2:Callsign BERLIN GROUND - PDC/DCL Logon EDDB
 ATIS3:Airport Briefing vats.im/eddb
