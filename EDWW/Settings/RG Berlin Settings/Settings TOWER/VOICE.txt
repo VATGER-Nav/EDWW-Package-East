@@ -18,6 +18,7 @@ AG:EDDB_A_GND Berlin Apron:121.855
 AG:EDDB_DEL Berlin Delivery:121.605
 AG:EDDB_D_APP Berlin Director:121.130
 AG:EDDB_E_GND Berlin Apron:129.605
+AG:EDDB_ICE_GND Berlin De-Icing:121.665
 AG:EDDB_F_APP Berlin Director:136.105
 AG:EDDB_N_APP Bremen Radar:119.630
 AG:EDDB_N_DEP Bremen Radar:134.430
