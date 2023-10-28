@@ -20,8 +20,6 @@ AG:EDDB_N_GND Berlin Ground:129.505
 AG:EDDB_N_TWR Berlin Tower:120.030
 AG:EDDB_S_APP Bremen Radar:126.425
 AG:EDDB_S_DEP Bremen Radar:120.630
-AG:EDDB_Y_APP Bremen Radar:119.630
-AG:EDDB_Z_APP Bremen Radar:126.425
 AG:EDDB_S_GND Berlin Ground:121.705
 AG:EDDB_S_TWR Berlin Tower:118.805
 AG:EDOI_I_TWR Bienenfarm Info:134.990
