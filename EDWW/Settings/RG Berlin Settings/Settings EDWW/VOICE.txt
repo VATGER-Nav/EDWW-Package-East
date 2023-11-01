@@ -15,7 +15,7 @@ AG:EDDB_D_APP Berlin Director:121.130
 AG:EDDB_E_GND Berlin Apron:129.605
 AG:EDDB_F_APP Berlin Director:136.105
 AG:EDDB_N_APP Bremen Radar:119.630
-AG:EDDB_N_DEP Bremen Radar:134.430
+AG:EDDB_N_DEP Bremen Radar:120.340
 AG:EDDB_N_GND Berlin Ground:129.505
 AG:EDDB_N_TWR Berlin Tower:120.030
 AG:EDDB_S_APP Bremen Radar:126.425
