@@ -314,6 +314,8 @@ Window_PredTfc=1,1,48,200,200
 Window_SepList=225,48
 Label_WTC_Default=0000
 Track_PredictionLine=1
+Shortcut_Map_Xfr_Key=7,0x44 ; D
+Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS CTR
 
 [_APP]
 MTCD=0
@@ -328,61 +330,3 @@ Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EDDB
 Setup_Informed=*:*:EDDB:2
 Setup_Informed=*:OSKAN,KOBUS:EDDC:2
 Setup_Informed=*:BEBKU:EDDP:2
-
-[EDWW_A]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
-
-[EDWW_B]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_D]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
-
-[EDWW_E]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
-
-[EDWW_H]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
-
-[EDWW_M]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_K]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_F]
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS EAST
-
-[EDWW_S]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
-
-[EDWW_R]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
-
-[EDWW_W]
-Track_PredictionLine=0
-Shortcut_Map_Xfr_Key=7,0x44 ; D
-Shortcut_Map_Target=7,AIRSPACE INFO\TACTICAL DIRECTS WEST
-CPDLC_MinLevel=245
